@@ -10,14 +10,14 @@ from playwright.sync_api import sync_playwright
 if 'GITHUB_ACTIONS' in os.environ:
     print("⚙️ Detectado entorno GitHub Actions")
     # Reducir la carga para evitar bloqueos
-    MAX_TRENDS = 5 # Solo 1 tendencia en CI
-    MAX_TWEETS = 5  # Menos tweets por tendencia
-    MAX_REPLIES_PER_TWEET = 5  # Menos respuestas por tweet
+    MAX_TRENDS = 2 # Solo 1 tendencia en CI
+    MAX_TWEETS = 2  # Menos tweets por tendencia
+    MAX_REPLIES_PER_TWEET = 2  # Menos respuestas por tweet
     print(f"🐢 Modo CI: {MAX_TRENDS} tendencias, {MAX_TWEETS} tweets, {MAX_REPLIES_PER_TWEET} respuestas por tweet")
 else:
-    MAX_TRENDS = 5
-    MAX_TWEETS = 5
-    MAX_REPLIES_PER_TWEET = 5
+    MAX_TRENDS = 2
+    MAX_TWEETS = 2
+    MAX_REPLIES_PER_TWEET = 2
 
 
 # Configuración de directorios
