@@ -24,7 +24,7 @@ def main():
     # Configuramos Gemini
     genai.configure(api_key=api_key)
     # Usamos el modelo Flash que es rápido y eficiente
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-pro')
 
     # 2. VERIFICAR CARPETAS
     if not os.path.exists(CARPETA_NEWS):
