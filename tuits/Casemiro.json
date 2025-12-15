@@ -1,0 +1,85 @@
+{
+  "trend": "Casemiro",
+  "scraped_at": "2025-12-15T21:05:21.621398",
+  "tweet_count": 2,
+  "total_replies": 4,
+  "image_count": 1,
+  "tweets": [
+    {
+      "author": "Manchester United",
+      "handle": "",
+      "text": "You can always rely on @Casemiro for a BIG header",
+      "replies": "281",
+      "retweets": "593",
+      "likes": "5.1K",
+      "timestamp": "2025-12-15T20:53:35.000Z",
+      "image_urls": [],
+      "thread_replies": [
+        {
+          "author": "Piko",
+          "handle": "",
+          "text": "Commentator: I didn't know what happened to petrovic he looked petrified",
+          "replies": "3",
+          "retweets": "",
+          "likes": "11",
+          "timestamp": "2025-12-15T20:54:03.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Cameo",
+          "handle": "",
+          "text": "Sleigh the season with the most personal gift around. Get them a Cameo video!",
+          "replies": "",
+          "retweets": "5",
+          "likes": "74",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
+        }
+      ],
+      "reply_count": 2,
+      "downloaded_images": []
+    },
+    {
+      "author": "LTX-2",
+      "handle": "",
+      "text": "Bring the LTX-2 API into real production pipelines, powering 4K, 50fps, synchronized-audio video generation",
+      "replies": "3",
+      "retweets": "10",
+      "likes": "89",
+      "timestamp": "",
+      "image_urls": [],
+      "thread_replies": [
+        {
+          "author": "LTX-2",
+          "handle": "",
+          "text": "Bring the LTX-2 API into real production pipelines, powering 4K, 50fps, synchronized-audio video generation",
+          "replies": "3",
+          "retweets": "10",
+          "likes": "89",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Casemiro",
+          "handle": "",
+          "text": "Come on @ManUtd !!",
+          "replies": "581",
+          "retweets": "1.9K",
+          "likes": "23K",
+          "timestamp": "2025-12-15T10:44:55.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8ND_duWEAQ3LlI?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "Casemiro/tweet_2_reply_2_img_1.jpg"
+          ]
+        }
+      ],
+      "reply_count": 2,
+      "downloaded_images": []
+    }
+  ]
+}
