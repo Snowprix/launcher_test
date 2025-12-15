@@ -1,0 +1,93 @@
+{
+  "trend": "#OTGalaFinal",
+  "scraped_at": "2025-12-15T21:30:16.271209",
+  "tweet_count": 2,
+  "total_replies": 4,
+  "image_count": 3,
+  "tweets": [
+    {
+      "author": "Adriii",
+      "handle": "",
+      "text": "Si no menciona a Max explota mi niño, un hetero nos dio el drama gay. CINE\n #OTGalaFinal",
+      "replies": "",
+      "retweets": "4",
+      "likes": "98",
+      "timestamp": "2025-12-15T21:27:24.000Z",
+      "image_urls": [],
+      "thread_replies": [
+        {
+          "author": "James Blossom",
+          "handle": "",
+          "text": "La cara de “PÁNICO” de mamen de “A VER QUÉ LE SUELTA AHORA Y CÓMO ME AGUANTO LAS CARAS” JAJAJAJAJAJA \n#OTGala13 #OTGalaFinal  \n\nCasi se repite el meme JAJAJAJAJ",
+          "replies": "1",
+          "retweets": "18",
+          "likes": "187",
+          "timestamp": "2025-12-15T21:27:46.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8PXFUdXwAIb7mm?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "_OTGalaFinal/tweet_1_reply_1_img_1.jpg"
+          ]
+        },
+        {
+          "author": "llullu ⸆⸉",
+          "handle": "",
+          "text": "si tenéis buen gusto sabéis que el top 3 tiene que estar formado por tinho, cristina y guille, no hay otra opción (no tengo orden) #OTGalaFinal",
+          "replies": "2",
+          "retweets": "46",
+          "likes": "371",
+          "timestamp": "2025-12-15T21:20:50.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        }
+      ],
+      "reply_count": 2,
+      "downloaded_images": []
+    },
+    {
+      "author": "James Blossom",
+      "handle": "",
+      "text": "La cara de “PÁNICO” de mamen de “A VER QUÉ LE SUELTA AHORA Y CÓMO ME AGUANTO LAS CARAS” JAJAJAJAJAJA \n#OTGala13 #OTGalaFinal  \n\nCasi se repite el meme JAJAJAJAJ",
+      "replies": "1",
+      "retweets": "18",
+      "likes": "187",
+      "timestamp": "2025-12-15T21:27:46.000Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G8PXFUdXwAIb7mm?format=jpg&name=360x360"
+      ],
+      "thread_replies": [
+        {
+          "author": "James Blossom",
+          "handle": "",
+          "text": "La cara de “PÁNICO” de mamen de “A VER QUÉ LE SUELTA AHORA Y CÓMO ME AGUANTO LAS CARAS” JAJAJAJAJAJA \n#OTGala13 #OTGalaFinal  \n\nCasi se repite el meme JAJAJAJAJ",
+          "replies": "1",
+          "retweets": "18",
+          "likes": "187",
+          "timestamp": "2025-12-15T21:27:46.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8PXFUdXwAIb7mm?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "_OTGalaFinal/tweet_2_reply_1_img_1.jpg"
+          ]
+        },
+        {
+          "author": "llullu ⸆⸉",
+          "handle": "",
+          "text": "si tenéis buen gusto sabéis que el top 3 tiene que estar formado por tinho, cristina y guille, no hay otra opción (no tengo orden) #OTGalaFinal",
+          "replies": "2",
+          "retweets": "46",
+          "likes": "374",
+          "timestamp": "2025-12-15T21:20:50.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        }
+      ],
+      "reply_count": 2,
+      "downloaded_images": [
+        "_OTGalaFinal/tweet_2_img_1.jpg"
+      ]
+    }
+  ]
+}

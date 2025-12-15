@@ -1,81 +1,81 @@
 {
   "trend": "Casemiro",
-  "scraped_at": "2025-12-15T21:05:21.621398",
+  "scraped_at": "2025-12-15T21:30:47.629567",
   "tweet_count": 2,
   "total_replies": 4,
   "image_count": 1,
   "tweets": [
     {
-      "author": "Manchester United",
+      "author": "Casemiro",
       "handle": "",
-      "text": "You can always rely on @Casemiro for a BIG header",
-      "replies": "281",
-      "retweets": "593",
-      "likes": "5.1K",
-      "timestamp": "2025-12-15T20:53:35.000Z",
-      "image_urls": [],
+      "text": "Come on @ManUtd !!",
+      "replies": "584",
+      "retweets": "1.9K",
+      "likes": "23K",
+      "timestamp": "2025-12-15T10:44:55.000Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G8ND_duWEAQ3LlI?format=jpg&name=large"
+      ],
       "thread_replies": [
         {
-          "author": "Piko",
+          "author": "Abdul",
           "handle": "",
-          "text": "Commentator: I didn't know what happened to petrovic he looked petrified",
+          "text": "I wan carry you to score Casemiro, you go score ?",
           "replies": "3",
           "retweets": "",
-          "likes": "11",
-          "timestamp": "2025-12-15T20:54:03.000Z",
+          "likes": "12",
+          "timestamp": "2025-12-15T11:43:34.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "Cameo",
+          "author": "PragerU",
           "handle": "",
-          "text": "Sleigh the season with the most personal gift around. Get them a Cameo video!",
-          "replies": "",
-          "retweets": "5",
-          "likes": "74",
+          "text": "The Great American Revival starts in homes & classrooms. \n\nThis holiday, every gift to PragerU is TRIPLE-MATCHED (up to $2,000,000) to keep videos free and reach more young Americans. Turn $100 into $300!\n\nLet’s make truth go further—together.",
+          "replies": "13",
+          "retweets": "69",
+          "likes": "372",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         }
       ],
       "reply_count": 2,
-      "downloaded_images": []
+      "downloaded_images": [
+        "Casemiro/tweet_1_img_1.jpg"
+      ]
     },
     {
-      "author": "LTX-2",
+      "author": "America's Plastic Makers",
       "handle": "",
-      "text": "Bring the LTX-2 API into real production pipelines, powering 4K, 50fps, synchronized-audio video generation",
-      "replies": "3",
-      "retweets": "10",
-      "likes": "89",
+      "text": "With policies that support newer, modern recycling, we can increase sustainability while meeting the growing demand for products made with recycled plastic. More jobs + less waste = Solutions",
+      "replies": "",
+      "retweets": "",
+      "likes": "2",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "LTX-2",
+          "author": "America's Plastic Makers",
           "handle": "",
-          "text": "Bring the LTX-2 API into real production pipelines, powering 4K, 50fps, synchronized-audio video generation",
-          "replies": "3",
-          "retweets": "10",
-          "likes": "89",
+          "text": "With policies that support newer, modern recycling, we can increase sustainability while meeting the growing demand for products made with recycled plastic. More jobs + less waste = Solutions",
+          "replies": "",
+          "retweets": "",
+          "likes": "2",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "Casemiro",
+          "author": "Manchester United",
           "handle": "",
-          "text": "Come on @ManUtd !!",
-          "replies": "581",
-          "retweets": "1.9K",
-          "likes": "23K",
-          "timestamp": "2025-12-15T10:44:55.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8ND_duWEAQ3LlI?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "Casemiro/tweet_2_reply_2_img_1.jpg"
-          ]
+          "text": "You can always rely on @Casemiro for a BIG header",
+          "replies": "338",
+          "retweets": "734",
+          "likes": "7.6K",
+          "timestamp": "2025-12-15T20:53:35.000Z",
+          "image_urls": [],
+          "downloaded_images": []
         }
       ],
       "reply_count": 2,
