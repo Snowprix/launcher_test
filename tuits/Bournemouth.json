@@ -1,0 +1,79 @@
+{
+  "trend": "Bournemouth",
+  "scraped_at": "2025-12-15T23:03:15.105507",
+  "tweet_count": 2,
+  "total_replies": 2,
+  "image_count": 8,
+  "tweets": [
+    {
+      "author": "Virginia American Revolution 250 Commemoration",
+      "handle": "",
+      "text": "Discover American frontier history in the Blue Ridge and beyond. Plan your Southern Virginia outing today!",
+      "replies": "",
+      "retweets": "",
+      "likes": "",
+      "timestamp": "",
+      "image_urls": [],
+      "thread_replies": [
+        {
+          "author": "B/R Football",
+          "handle": "",
+          "text": "13’—Man Utd 1-0 Bournemouth\n40’—Man Utd 1-1 Bournemouth\n45+4’—Man Utd 2-1 Bournemouth\n46’—Man Utd 2-2 Bournemouth\n52’—Man Utd 2-3 Bournemouth\n77’—Man Utd 3-3 Bournemouth\n79’—Man Utd 4-3 Bournemouth\n84’—Man Utd 4-4 Bournemouth\n\nTHIS. GAME",
+          "replies": "238",
+          "retweets": "1.3K",
+          "likes": "13K",
+          "timestamp": "2025-12-15T21:51:13.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8PceVlWIAA7nA-?format=jpg&name=360x360",
+            "https://pbs.twimg.com/media/G8PceUqWUAUO_4u?format=jpg&name=large",
+            "https://pbs.twimg.com/media/G8PceVcXsAQ7cYP?format=jpg&name=large",
+            "https://pbs.twimg.com/media/G8PceVhWoAEtQMF?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "Bournemouth/tweet_1_reply_1_img_1.jpg",
+            "Bournemouth/tweet_1_reply_1_img_2.jpg",
+            "Bournemouth/tweet_1_reply_1_img_3.jpg",
+            "Bournemouth/tweet_1_reply_1_img_4.jpg"
+          ]
+        }
+      ],
+      "reply_count": 1,
+      "downloaded_images": []
+    },
+    {
+      "author": "B/R Football",
+      "handle": "",
+      "text": "13’—Man Utd 1-0 Bournemouth\n40’—Man Utd 1-1 Bournemouth\n45+4’—Man Utd 2-1 Bournemouth\n46’—Man Utd 2-2 Bournemouth\n52’—Man Utd 2-3 Bournemouth\n77’—Man Utd 3-3 Bournemouth\n79’—Man Utd 4-3 Bournemouth\n84’—Man Utd 4-4 Bournemouth\n\nTHIS. GAME",
+      "replies": "238",
+      "retweets": "1.3K",
+      "likes": "13K",
+      "timestamp": "2025-12-15T21:51:13.000Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G8PceVlWIAA7nA-?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8PceUqWUAUO_4u?format=jpg&name=large",
+        "https://pbs.twimg.com/media/G8PceVcXsAQ7cYP?format=jpg&name=large",
+        "https://pbs.twimg.com/media/G8PceVhWoAEtQMF?format=jpg&name=360x360"
+      ],
+      "thread_replies": [
+        {
+          "author": "BK Sports",
+          "handle": "",
+          "text": "You can tell they both bet Over 7.5 Goals",
+          "replies": "1",
+          "retweets": "3",
+          "likes": "34",
+          "timestamp": "2025-12-15T21:58:19.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        }
+      ],
+      "reply_count": 1,
+      "downloaded_images": [
+        "Bournemouth/tweet_2_img_1.jpg",
+        "Bournemouth/tweet_2_img_2.jpg",
+        "Bournemouth/tweet_2_img_3.jpg",
+        "Bournemouth/tweet_2_img_4.jpg"
+      ]
+    }
+  ]
+}
