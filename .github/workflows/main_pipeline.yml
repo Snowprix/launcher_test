@@ -66,7 +66,7 @@ jobs:
     - name: 🧠 Generar Noticias
       if: steps.check_data.outputs.has_data == 'true'
       env:
-        GEMINI_API_KEY: "AIzaSyDGmne_0h7p811Mb4m7VX6cPD7PJNBAz1w"
+        GEMINI_API_KEY: " secrets.GEMINI_API_KEY "
       run: |
         echo "--- INICIANDO IA ---"
         python src/ai_processor/generator_news.py
