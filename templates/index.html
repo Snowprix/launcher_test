@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>📰 Revista Digital - Titulares</title>
+    <style>
+        /* Estilos Base */
+        body { 
+            font-family: 'Georgia', serif; 
+            margin: 0; 
+            background-color: #f4f4f4; 
+            color: #1c1c1c;
+        }
+        header {
+            background-color: #ffffff;
+            border-bottom: 5px solid #000000;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .logo {
+            font-family: 'Times New Roman', serif;
+            font-size: 3em;
+            font-weight: bold;
+            color: #000000;
+            margin: 0;
+        }
+        .slogan {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        /* Contenedor Principal (Grid) */
+        .grid-container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 30px auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        /* Estilo de los Bloques de Noticia */
+        .noticia-bloque {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s;
+        }
+        .noticia-bloque:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo del Titular (enlace) */
+        .noticia-bloque a {
+            text-decoration: none;
+            color: #000000;
+            font-size: 1.5em;
+            font-weight: 700;
+            line-height: 1.2;
+            display: block; 
+        }
+        .noticia-bloque a:hover {
+            color: #444444;
+            text-decoration: underline;
+        }
+        .cintillo {
+            display: block;
+            font-size: 0.75em;
+            color: #d90000;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">THE DIGITAL NEWS</div>
+        <div class="slogan">Veritas, Lux et Libertas</div>
+    </header>
+
+    <div class="grid-container">
+        {% for titular in titulares %}
+        <div class="noticia-bloque">
+            <span class="cintillo">Mundo</span>
+            <a href="/noticia/{{ titular }}">
+                {{ titular | replace('_', ' ') | capitalize }}
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if not titulares %}
+    <p style="text-align: center; margin-top: 50px;">No hay noticias disponibles en este momento.</p>
+    {% endif %}
+
+</body>
+</html>

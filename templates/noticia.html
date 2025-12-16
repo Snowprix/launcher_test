@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ titulo | replace('_', ' ') | capitalize }}</title>
+    <style>
+        /* Estilos Base de Revista */
+        body { 
+            font-family: 'Georgia', serif; 
+            margin: 0; 
+            background-color: #ffffff; 
+            color: #1c1c1c;
+        }
+        .container {
+            width: 75%; 
+            max-width: 800px; 
+            margin: 40px auto;
+            padding: 30px;
+            border: 1px solid #eee;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+        }
+        .back-link { 
+            display: block; 
+            margin-bottom: 30px; 
+            font-weight: bold; 
+            color: #007bff; 
+            text-decoration: none;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        /* Titulares */
+        h1 { 
+            color: #000000; 
+            font-size: 2.5em; 
+            margin-bottom: 10px; 
+            line-height: 1.1;
+        }
+        .fecha-autor {
+            font-family: Arial, sans-serif;
+            font-size: 0.9em;
+            color: #777;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+
+        /* Diseño Vertical para el Contenido */
+        .contenido-noticia { 
+            font-size: 1.1em;
+            line-height: 1.7;
+            text-align: justify;
+        }
+
+        /* ESTILO DE PÁRRAFOS: Sangría y Espaciado */
+        .contenido-noticia p {
+            margin-top: 0;
+            margin-bottom: 1.5em; 
+            text-indent: 1.5em; 
+        }
+        
+        /* Eliminar la sangría del primer párrafo */
+        .contenido-noticia p:first-child {
+            text-indent: 0;
+        }
+
+        /* ESTILOS DE IMAGEN (Contenido) */
+        img { 
+            max-width: 100%; 
+            height: auto; 
+            margin: 15px 0;
+            border: 1px solid #ddd;
+            padding: 5px;
+            display: block; 
+            break-inside: avoid;
+        }
+        .align-t, .align-b, .align-none { 
+            display: block; 
+            margin-left: auto; 
+            margin-right: auto;
+        }
+        .align-l { float: left; margin-right: 20px; max-width: 45%; }
+        .align-r { float: right; margin-left: 20px; max-width: 45%; }
+
+        /* --- ESTILOS PARA ANUNCIOS (AD Units) --- */
+        .ad-unit {
+            border: 1px solid #ffaa00; 
+            background-color: #fff8e1; 
+            padding: 15px;
+            margin: 30px 0; 
+            text-align: center;
+            font-family: Arial, sans-serif;
+            clear: both; 
+        }
+        .ad-unit h2 {
+            font-size: 1.5em;
+            color: #d90000; 
+            margin: 5px 0 10px 0;
+        }
+        .ad-unit p {
+            font-size: 0.9em;
+            color: #444;
+            margin-bottom: 15px;
+            text-indent: 0 !important; 
+        }
+        .ad-link {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 8px 15px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 3px;
+        }
+        .ad-link:hover {
+            background-color: #0056b3;
+        }
+        
+        /* ESTILO ESPECÍFICO PARA LA MINIATURA DEL ANUNCIO */
+        .ad-unit .ad-thumbnail {
+            max-width: 150px; 
+            height: auto;
+            margin: 10px auto; 
+            padding: 0;
+            border: none; 
+            border-radius: 5px; 
+            display: block; 
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="back-link">← Volver a la Portada</a>
+        
+        <h1>{{ titulo | replace('_', ' ') | capitalize }}</h1>
+        <div class="fecha-autor">
+            Por: Redacción Digital | 15 de Diciembre, 2025
+        </div>
+        
+        {{ generar_anuncio('top-article') | safe }}
+
+        <div class="contenido-noticia">
+            {{ contenido | safe }} 
+        </div>
+
+        {{ generar_anuncio('bottom-page') | safe }}
+
+    </div>
+
+</body>
+</html>
