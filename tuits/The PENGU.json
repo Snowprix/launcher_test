@@ -1,17 +1,121 @@
 {
   "trend": "The PENGU",
-  "scraped_at": "2025-12-16T13:08:21.299706",
+  "scraped_at": "2025-12-16T13:51:27.905323",
   "tweet_count": 3,
-  "total_replies": 10,
-  "image_count": 3,
+  "total_replies": 16,
+  "image_count": 8,
   "tweets": [
+    {
+      "author": "HelleV",
+      "handle": "",
+      "text": "Feed the Pengu! #TFTParisOpen",
+      "replies": "3",
+      "retweets": "5",
+      "likes": "20",
+      "timestamp": "2025-12-14T15:42:22.000Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G8I-ejSWMAIu9PX?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8I-ejUXAAUgFXQ?format=jpg&name=360x360"
+      ],
+      "thread_replies": [
+        {
+          "author": "테선생의 AI STUDIO",
+          "handle": "",
+          "text": "[𝕏 Real-Time Trend - Feed the Pengu]\n\n A massive wave of cuteness has exploded at the TFT Paris Open!  \nThe \"Feed the Pengu\" meme is completely taking over social media right now.  \n\n3-Line Summary  \n Fans are producing tons of photos feeding French bread and pastries to  x.com/MeganeAkuma/st…",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T13:18:42.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SwuM5bYAAcFL-?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The PENGU/tweet_1_reply_1_img_1.jpg"
+          ]
+        },
+        {
+          "author": "HelleV",
+          "handle": "",
+          "text": "Feed the Pengu! #TFTParisOpen",
+          "replies": "3",
+          "retweets": "5",
+          "likes": "20",
+          "timestamp": "2025-12-14T15:42:22.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8I-ejSWMAIu9PX?format=jpg&name=360x360",
+            "https://pbs.twimg.com/media/G8I-ejUXAAUgFXQ?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "The PENGU/tweet_1_reply_2_img_1.jpg",
+            "The PENGU/tweet_1_reply_2_img_2.jpg"
+          ]
+        },
+        {
+          "author": "Pengu",
+          "handle": "",
+          "text": "thankful for the character development but is it okay if i can start to enjoy being alive now or",
+          "replies": "18",
+          "retweets": "4.5K",
+          "likes": "17K",
+          "timestamp": "2025-12-15T20:09:45.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Augment Code",
+          "handle": "",
+          "text": "Get lightning fast, complete codebase context in every keystroke. All of your code, documentation, and dependencies are embedded in every change, automatically.",
+          "replies": "3",
+          "retweets": "11",
+          "likes": "123",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Ahunisa Efser AYDINTAN",
+          "handle": "",
+          "text": "There's more to this code decoding, but for now, that's enough...\nThis is not investment advice...\nJust a fun code decoding...\n#PudgyPenguins #Pengu #Trump\n               Eleven Twenty Two\nThe best is....",
+          "replies": "4",
+          "retweets": "4",
+          "likes": "93",
+          "timestamp": "2025-12-16T05:56:37.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8N8KvvXsAAX0JX?format=jpg&name=120x120"
+          ],
+          "downloaded_images": [
+            "The PENGU/tweet_1_reply_5_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Pengu Planes",
+          "handle": "",
+          "text": "We found something in the ice.\n\nEngines fused with tech no penguin should understand.\n\nWe’ll be giving something away soon…",
+          "replies": "1",
+          "retweets": "3",
+          "likes": "3",
+          "timestamp": "2025-12-16T12:48:58.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SpyHsX0AMvhxb?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The PENGU/tweet_1_reply_6_img_1.jpg"
+          ]
+        }
+      ],
+      "reply_count": 6,
+      "downloaded_images": [
+        "The PENGU/tweet_1_img_1.jpg",
+        "The PENGU/tweet_1_img_2.jpg"
+      ]
+    },
     {
       "author": "Pengu",
       "handle": "",
       "text": "thankful for the character development but is it okay if i can start to enjoy being alive now or",
-      "replies": "17",
-      "retweets": "4.2K",
-      "likes": "16K",
+      "replies": "18",
+      "retweets": "4.5K",
+      "likes": "17K",
       "timestamp": "2025-12-15T20:09:45.000Z",
       "image_urls": [],
       "thread_replies": [
@@ -21,7 +125,7 @@
           "text": "Nobody gets a break from character development, trust me",
           "replies": "1",
           "retweets": "2",
-          "likes": "30",
+          "likes": "31",
           "timestamp": "2025-12-15T20:56:22.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -54,7 +158,7 @@
           "text": "i'm asking myself for permission on this tweet tbh",
           "replies": "1",
           "retweets": "",
-          "likes": "24",
+          "likes": "25",
           "timestamp": "2025-12-16T00:13:19.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -76,13 +180,13 @@
           "text": "the lock in question",
           "replies": "1",
           "retweets": "",
-          "likes": "10",
+          "likes": "12",
           "timestamp": "2025-12-15T20:45:48.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8PNeQfXkAA-DYF?format=png&name=large"
           ],
           "downloaded_images": [
-            "The PENGU/tweet_1_reply_6_img_1.jpg"
+            "The PENGU/tweet_2_reply_6_img_1.jpg"
           ]
         },
         {
@@ -113,7 +217,7 @@
           "text": "Id appreciate it if I could also enjoy being alive after the life lessons. Would be great  I feel this post",
           "replies": "1",
           "retweets": "",
-          "likes": "4",
+          "likes": "5",
           "timestamp": "2025-12-15T22:51:37.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -134,31 +238,12 @@
       "downloaded_images": []
     },
     {
-      "author": "JBond",
+      "author": "Augment Code",
       "handle": "",
-      "text": "Pudgy Penguins this week: “We are dropping a toy with Care Bears and we are wrapping the Sphere with $PENGU during the Christmas week”\n\nAnd yet $PENGU & Pudgy Penguins prices have been nuking this week\n\nIt doesn’t make any sense",
-      "replies": "103",
-      "retweets": "8",
-      "likes": "204",
-      "timestamp": "2025-12-16T03:16:36.000Z",
-      "image_urls": [
-        "https://pbs.twimg.com/media/G8Qm93baAAAhZcr?format=jpg&name=360x360",
-        "https://pbs.twimg.com/media/G8Qm93XaMAAyW6x?format=jpg&name=360x360"
-      ],
-      "thread_replies": [],
-      "reply_count": 0,
-      "downloaded_images": [
-        "The PENGU/tweet_2_img_1.jpg",
-        "The PENGU/tweet_2_img_2.jpg"
-      ]
-    },
-    {
-      "author": "Cloudinary",
-      "handle": "",
-      "text": "Three Million Developers. Thank you for building with us.",
-      "replies": "",
-      "retweets": "10",
-      "likes": "55",
+      "text": "Get lightning fast, complete codebase context in every keystroke. All of your code, documentation, and dependencies are embedded in every change, automatically.",
+      "replies": "3",
+      "retweets": "11",
+      "likes": "123",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [],

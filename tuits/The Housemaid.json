@@ -1,58 +1,52 @@
 {
   "trend": "The Housemaid",
-  "scraped_at": "2025-12-16T13:00:58.157839",
+  "scraped_at": "2025-12-16T13:46:06.043682",
   "tweet_count": 3,
-  "total_replies": 18,
-  "image_count": 9,
+  "total_replies": 14,
+  "image_count": 10,
   "tweets": [
     {
       "author": "The Housemaid",
       "handle": "",
       "text": "Have yourself a merry little crisis. Watch the final trailer for The Housemaid – in theaters THIS FRIDAY. Get tickets now!",
-      "replies": "1",
+      "replies": "4",
       "retweets": "4",
-      "likes": "62",
+      "likes": "85",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "",
-          "handle": "",
-          "text": "Sydney Sweeney at \"The Housemaid\" Los Angeles Premiere.",
-          "replies": "60",
-          "retweets": "318",
-          "likes": "6K",
-          "timestamp": "2025-12-16T03:25:53.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8Qo7iPW0AYd3cx?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8Qo7iPWEAMVFbZ?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "The Housemaid/tweet_1_reply_1_img_1.jpg",
-            "The Housemaid/tweet_1_reply_1_img_2.jpg"
-          ]
-        },
-        {
           "author": "Variety",
           "handle": "",
           "text": "Sydney Sweeney arrives to \"The Housemaid\" premiere in LA",
-          "replies": "1.2K",
-          "retweets": "2.9K",
-          "likes": "49K",
+          "replies": "1.3K",
+          "retweets": "3.1K",
+          "likes": "53K",
           "timestamp": "2025-12-16T03:24:42.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "JumpTrailers",
+          "author": "Portal Sydney Sweeney",
           "handle": "",
-          "text": "Sydney Sweeney at the LA premiere of \"The Housemaid\"\n(Matt Baron/BEI/Shutterstock)",
-          "replies": "35",
-          "retweets": "156",
-          "likes": "4.7K",
-          "timestamp": "2025-12-16T04:21:04.000Z",
+          "text": "Sydney Sweeney e Amanda Seyfried na premiere de 'The Housemaid' em Los Angeles.",
+          "replies": "4",
+          "retweets": "1",
+          "likes": "30",
+          "timestamp": "2025-12-16T08:35:24.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "𝐀𝐦𝐚𝐧𝐝𝐚 𝐒𝐞𝐲𝐟𝐫𝐢𝐞𝐝 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+          "handle": "",
+          "text": "Amanda Seyfried for \"The Housemaid\" LA Premiere",
+          "replies": "",
+          "retweets": "4",
+          "likes": "46",
+          "timestamp": "2025-12-16T09:03:45.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8Q1qsfXoAQZKlt?format=jpg&name=large"
+            "https://pbs.twimg.com/media/G8R2aMiW8AEvXEk?format=jpg&name=360x360"
           ],
           "downloaded_images": [
             "The Housemaid/tweet_1_reply_3_img_1.jpg"
@@ -63,200 +57,23 @@
       "downloaded_images": []
     },
     {
-      "author": "",
-      "handle": "",
-      "text": "Sydney Sweeney at \"The Housemaid\" Los Angeles Premiere.",
-      "replies": "60",
-      "retweets": "318",
-      "likes": "6K",
-      "timestamp": "2025-12-16T03:25:53.000Z",
-      "image_urls": [
-        "https://pbs.twimg.com/media/G8Qo7iPW0AYd3cx?format=jpg&name=large",
-        "https://pbs.twimg.com/media/G8Qo7iPWEAMVFbZ?format=jpg&name=large"
-      ],
-      "thread_replies": [
-        {
-          "author": "TP",
-          "handle": "",
-          "text": "absolute beauty",
-          "replies": "1",
-          "retweets": "",
-          "likes": "9",
-          "timestamp": "2025-12-16T04:55:30.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "quiteframes",
-          "handle": "",
-          "text": "",
-          "replies": "",
-          "retweets": "",
-          "likes": "12",
-          "timestamp": "2025-12-16T05:24:21.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8RD-iUbUAAA9of?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "The Housemaid/tweet_2_reply_2_img_1.jpg"
-          ]
-        },
-        {
-          "author": "",
-          "handle": "",
-          "text": "hate on her but her face card is so lethal",
-          "replies": "",
-          "retweets": "",
-          "likes": "3",
-          "timestamp": "2025-12-16T06:08:06.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "stove god hamm",
-          "handle": "",
-          "text": "She’s got those set to 65 PSI",
-          "replies": "",
-          "retweets": "",
-          "likes": "",
-          "timestamp": "2025-12-16T06:24:39.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "the greatest",
-          "handle": "",
-          "text": "Mesmerizing",
-          "replies": "",
-          "retweets": "",
-          "likes": "2",
-          "timestamp": "2025-12-16T08:44:38.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "Cloudinary",
-          "handle": "",
-          "text": "Are slow-loading pages costing you conversions?\nPUMA relies on Cloudinary to keep 10M assets optimized and updated every 5 minutes—delivering 70% faster-loading product pages worldwide. Ready to speed up your site?",
-          "replies": "",
-          "retweets": "31",
-          "likes": "229",
-          "timestamp": "",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "uj",
-          "handle": "",
-          "text": "",
-          "replies": "",
-          "retweets": "",
-          "likes": "1",
-          "timestamp": "2025-12-16T04:42:24.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "DarkYorubaGuy",
-          "handle": "",
-          "text": "She is gorgeous",
-          "replies": "",
-          "retweets": "",
-          "likes": "",
-          "timestamp": "2025-12-16T06:19:57.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "AndaranQueen",
-          "handle": "",
-          "text": "So Perfect.",
-          "replies": "",
-          "retweets": "",
-          "likes": "1",
-          "timestamp": "2025-12-16T09:17:54.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "Wesley Wayner",
-          "handle": "",
-          "text": "Move over, Marilyn!",
-          "replies": "",
-          "retweets": "",
-          "likes": "",
-          "timestamp": "2025-12-16T05:13:13.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        }
-      ],
-      "reply_count": 10,
-      "downloaded_images": [
-        "The Housemaid/tweet_2_img_1.jpg",
-        "The Housemaid/tweet_2_img_2.jpg"
-      ]
-    },
-    {
       "author": "Variety",
       "handle": "",
       "text": "Sydney Sweeney arrives to \"The Housemaid\" premiere in LA",
-      "replies": "1.2K",
-      "retweets": "2.9K",
-      "likes": "49K",
+      "replies": "1.3K",
+      "retweets": "3.1K",
+      "likes": "53K",
       "timestamp": "2025-12-16T03:24:42.000Z",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "",
-          "handle": "",
-          "text": "Sydney Sweeney at \"The Housemaid\" Los Angeles Premiere.",
-          "replies": "60",
-          "retweets": "318",
-          "likes": "6.1K",
-          "timestamp": "2025-12-16T03:25:53.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8Qo7iPW0AYd3cx?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8Qo7iPWEAMVFbZ?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "The Housemaid/tweet_3_reply_1_img_1.jpg",
-            "The Housemaid/tweet_3_reply_1_img_2.jpg"
-          ]
-        },
-        {
           "author": "Variety",
           "handle": "",
           "text": "Sydney Sweeney arrives to \"The Housemaid\" premiere in LA",
-          "replies": "1.2K",
-          "retweets": "2.9K",
-          "likes": "49K",
+          "replies": "1.3K",
+          "retweets": "3.1K",
+          "likes": "53K",
           "timestamp": "2025-12-16T03:24:42.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "JumpTrailers",
-          "handle": "",
-          "text": "Sydney Sweeney at the LA premiere of \"The Housemaid\"\n(Matt Baron/BEI/Shutterstock)",
-          "replies": "35",
-          "retweets": "157",
-          "likes": "4.7K",
-          "timestamp": "2025-12-16T04:21:04.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8Q1qsfXoAQZKlt?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "The Housemaid/tweet_3_reply_3_img_1.jpg"
-          ]
-        },
-        {
-          "author": "Kameo TR",
-          "handle": "",
-          "text": "#SydneySweeney, “The Housemaid” galasında.",
-          "replies": "",
-          "retweets": "",
-          "likes": "2",
-          "timestamp": "2025-12-16T13:00:00.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
@@ -266,13 +83,158 @@
           "text": "Sydney Sweeney e Amanda Seyfried na premiere de 'The Housemaid' em Los Angeles.",
           "replies": "4",
           "retweets": "1",
-          "likes": "29",
+          "likes": "30",
           "timestamp": "2025-12-16T08:35:24.000Z",
           "image_urls": [],
           "downloaded_images": []
+        },
+        {
+          "author": "𝐀𝐦𝐚𝐧𝐝𝐚 𝐒𝐞𝐲𝐟𝐫𝐢𝐞𝐝 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+          "handle": "",
+          "text": "Amanda Seyfried for \"The Housemaid\" LA Premiere",
+          "replies": "",
+          "retweets": "4",
+          "likes": "46",
+          "timestamp": "2025-12-16T09:03:45.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8R2aMiW8AEvXEk?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_2_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Accordingtoseth",
+          "handle": "",
+          "text": "Just walked out of The Housemaid and holy shit! I was on the edge of my seat the entire time. Twist after twist until it punches you in the face. Amanda Seyfried is great, but Sydney Sweeney absolutely steals the movie. A full-on powerhouse performance. Do not skip seeing this in",
+          "replies": "4",
+          "retweets": "5",
+          "likes": "25",
+          "timestamp": "2025-12-16T04:23:58.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Q2Y0ma0AAnWia?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_2_reply_4_img_1.jpg"
+          ]
+        },
+        {
+          "author": "",
+          "handle": "",
+          "text": "Sydney Sweeney at \"The Housemaid\" Los Angeles Premiere.",
+          "replies": "60",
+          "retweets": "331",
+          "likes": "6.2K",
+          "timestamp": "2025-12-16T03:25:53.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Qo7iPW0AYd3cx?format=jpg&name=large",
+            "https://pbs.twimg.com/media/G8Qo7iPWEAMVFbZ?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_2_reply_5_img_1.jpg",
+            "The Housemaid/tweet_2_reply_5_img_2.jpg"
+          ]
         }
       ],
       "reply_count": 5,
+      "downloaded_images": []
+    },
+    {
+      "author": "Portal Sydney Sweeney",
+      "handle": "",
+      "text": "Sydney Sweeney e Amanda Seyfried na premiere de 'The Housemaid' em Los Angeles.",
+      "replies": "4",
+      "retweets": "1",
+      "likes": "30",
+      "timestamp": "2025-12-16T08:35:24.000Z",
+      "image_urls": [],
+      "thread_replies": [
+        {
+          "author": "Variety",
+          "handle": "",
+          "text": "Sydney Sweeney arrives to \"The Housemaid\" premiere in LA",
+          "replies": "1.3K",
+          "retweets": "3.1K",
+          "likes": "53K",
+          "timestamp": "2025-12-16T03:24:42.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Portal Sydney Sweeney",
+          "handle": "",
+          "text": "Sydney Sweeney e Amanda Seyfried na premiere de 'The Housemaid' em Los Angeles.",
+          "replies": "4",
+          "retweets": "1",
+          "likes": "30",
+          "timestamp": "2025-12-16T08:35:24.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "𝐀𝐦𝐚𝐧𝐝𝐚 𝐒𝐞𝐲𝐟𝐫𝐢𝐞𝐝 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+          "handle": "",
+          "text": "Amanda Seyfried for \"The Housemaid\" LA Premiere",
+          "replies": "",
+          "retweets": "4",
+          "likes": "46",
+          "timestamp": "2025-12-16T09:03:45.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8R2aMiW8AEvXEk?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_3_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Accordingtoseth",
+          "handle": "",
+          "text": "Just walked out of The Housemaid and holy shit! I was on the edge of my seat the entire time. Twist after twist until it punches you in the face. Amanda Seyfried is great, but Sydney Sweeney absolutely steals the movie. A full-on powerhouse performance. Do not skip seeing this in",
+          "replies": "4",
+          "retweets": "5",
+          "likes": "25",
+          "timestamp": "2025-12-16T04:23:58.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Q2Y0ma0AAnWia?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_3_reply_4_img_1.jpg"
+          ]
+        },
+        {
+          "author": "",
+          "handle": "",
+          "text": "Sydney Sweeney at \"The Housemaid\" Los Angeles Premiere.",
+          "replies": "60",
+          "retweets": "331",
+          "likes": "6.3K",
+          "timestamp": "2025-12-16T03:25:53.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Qo7iPW0AYd3cx?format=jpg&name=large",
+            "https://pbs.twimg.com/media/G8Qo7iPWEAMVFbZ?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_3_reply_5_img_1.jpg",
+            "The Housemaid/tweet_3_reply_5_img_2.jpg"
+          ]
+        },
+        {
+          "author": "Klepcx",
+          "handle": "",
+          "text": "Last night I saw #TheHousemaidmovie and it is diabolical, gaslighting you from start to finish. The predictability is intentional, luring you into a false sense of who’s playing who. Amanda Seyfried channels her inner unhinged tension while Sydney Sweeney’s grounded vulnerability",
+          "replies": "",
+          "retweets": "1",
+          "likes": "3",
+          "timestamp": "2025-12-16T13:07:43.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SuQ2sXAAArFyO?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "The Housemaid/tweet_3_reply_6_img_1.jpg"
+          ]
+        }
+      ],
+      "reply_count": 6,
       "downloaded_images": []
     }
   ]

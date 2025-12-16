@@ -1,16 +1,16 @@
 {
   "trend": "FINALLY DID IT",
-  "scraped_at": "2025-12-16T13:05:13.174182",
+  "scraped_at": "2025-12-16T13:49:43.438160",
   "tweet_count": 3,
-  "total_replies": 24,
-  "image_count": 29,
+  "total_replies": 26,
+  "image_count": 17,
   "tweets": [
     {
       "author": "Mister E. Nigma",
       "handle": "",
       "text": "They finally did it",
-      "replies": "7",
-      "retweets": "168",
+      "replies": "9",
+      "retweets": "178",
       "likes": "1K",
       "timestamp": "2025-12-14T15:49:35.000Z",
       "image_urls": [
@@ -21,8 +21,8 @@
           "author": "Mister E. Nigma",
           "handle": "",
           "text": "They finally did it",
-          "replies": "7",
-          "retweets": "168",
+          "replies": "9",
+          "retweets": "178",
           "likes": "1K",
           "timestamp": "2025-12-14T15:49:35.000Z",
           "image_urls": [],
@@ -34,19 +34,30 @@
           "text": "Family Guy called it.",
           "replies": "",
           "retweets": "1",
-          "likes": "3",
+          "likes": "5",
           "timestamp": "2025-12-15T12:48:01.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "Mochi Health",
+          "author": "Cameo",
           "handle": "",
-          "text": "You don’t need hype — you need results.\n\nGLP-1 prescriptions from Mochi Health start at $79/month, with real clinicians supporting you at every step.",
-          "replies": "2",
-          "retweets": "3",
-          "likes": "49",
+          "text": "Santa’s gone digital. Get your personalized Cameo from Santa, and give the special ones in your life a surprise they’ll never forget.",
+          "replies": "",
+          "retweets": "9",
+          "likes": "70",
           "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Jim Brown",
+          "handle": "",
+          "text": "Rolling Stone really lost that Rock n Roll edge, no?",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T13:43:13.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
@@ -66,8 +77,8 @@
           "handle": "",
           "text": "jesus that was supposed to be a joke not an instruction manual",
           "replies": "",
-          "retweets": "",
-          "likes": "2",
+          "retweets": "1",
+          "likes": "3",
           "timestamp": "2025-12-16T02:10:14.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -89,7 +100,7 @@
           "text": "i was looking for this",
           "replies": "",
           "retweets": "1",
-          "likes": "5",
+          "likes": "6",
           "timestamp": "2025-12-15T06:24:11.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -109,32 +120,15 @@
           "author": "Mister E. Nigma",
           "handle": "",
           "text": "They finally did it",
-          "replies": "7",
-          "retweets": "168",
+          "replies": "9",
+          "retweets": "178",
           "likes": "1K",
           "timestamp": "2025-12-14T15:49:35.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8JAILiW4AgeOBw?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "FINALLY DID IT/tweet_1_reply_9_img_1.jpg"
-          ]
-        },
-        {
-          "author": "fat rat",
-          "handle": "",
-          "text": "Finally did it, im finally uw",
-          "replies": "",
-          "retweets": "1",
-          "likes": "7",
-          "timestamp": "2025-12-14T13:16:26.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8IdFFIXUAIrcms?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8IdFD2WEAUJACf?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "FINALLY DID IT/tweet_1_reply_10_img_1.jpg",
-            "FINALLY DID IT/tweet_1_reply_10_img_2.jpg"
+            "FINALLY DID IT/tweet_1_reply_10_img_1.jpg"
           ]
         }
       ],
@@ -144,183 +138,226 @@
       ]
     },
     {
-      "author": "fat rat",
+      "author": "Shitpost24×7",
       "handle": "",
-      "text": "Finally did it, im finally uw",
-      "replies": "",
-      "retweets": "1",
-      "likes": "7",
-      "timestamp": "2025-12-14T13:16:26.000Z",
+      "text": "FINALLY DID IT",
+      "replies": "2",
+      "retweets": "4",
+      "likes": "29",
+      "timestamp": "2025-12-16T12:02:00.000Z",
       "image_urls": [
-        "https://pbs.twimg.com/media/G8IdFFIXUAIrcms?format=jpg&name=360x360",
-        "https://pbs.twimg.com/media/G8IdFD2WEAUJACf?format=jpg&name=large"
+        "https://pbs.twimg.com/media/G8SfNtYa4AA37xb?format=jpg&name=large"
       ],
       "thread_replies": [
+        {
+          "author": "Sandy stewart",
+          "handle": "",
+          "text": "",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T13:07:06.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "JAXXON",
+          "handle": "",
+          "text": "Premium men’s jewelry that elevates every fit.\nBlack Friday deals live now!",
+          "replies": "",
+          "retweets": "29",
+          "likes": "185",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Courtney Ellis",
+          "handle": "",
+          "text": "Pretty sure I won at White Elephant this year.",
+          "replies": "7",
+          "retweets": "",
+          "likes": "77",
+          "timestamp": "2025-12-16T01:40:47.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8QRBOmbYAARigf?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "FINALLY DID IT/tweet_2_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Bodleian Libraries",
+          "handle": "",
+          "text": "Jane Austen was born 250 years ago today \n\nOur new display, Dancing with Austen, explores how dance shaped her social world and drove the plots of her novels.\n\nNow on display at the Weston Library.\n\n#JaneAusten",
+          "replies": "5",
+          "retweets": "87",
+          "likes": "366",
+          "timestamp": "2025-12-16T09:05:06.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "RobertAllenPoet",
+          "handle": "",
+          "text": "Wednesday marks 19 years with my spouse. Which is pretty awesome; they’re pretty awesome too. So a good reason to read and reread my favorite Shakespeare. Out of all of his plays and poems, I like these 14 lines the most. I like what they say.",
+          "replies": "4",
+          "retweets": "5",
+          "likes": "31",
+          "timestamp": "2025-12-16T01:25:31.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8QNi02a4AAy6lE?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "FINALLY DID IT/tweet_2_reply_5_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Peter Lilly Poetry",
+          "handle": "",
+          "text": "My review of @pauljpastor 's fantastic collection \"The Locust Years\" with @WisebloodBooks, has just been published by Radix Magazine. Read it here: https://radixmagazine.com/2025/12/13/the-locust-years-by-paul-j-pastor-a-meeting-of-opposites/…\n\nI hope it inspires you to read Paul's book, it is a real gift.",
+          "replies": "",
+          "retweets": "1",
+          "likes": "2",
+          "timestamp": "2025-12-16T10:22:16.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
         {
           "author": "Mister E. Nigma",
           "handle": "",
           "text": "They finally did it",
-          "replies": "7",
-          "retweets": "168",
+          "replies": "9",
+          "retweets": "178",
           "likes": "1K",
           "timestamp": "2025-12-14T15:49:35.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8JAILiW4AgeOBw?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "FINALLY DID IT/tweet_2_reply_1_img_1.jpg"
+            "FINALLY DID IT/tweet_2_reply_7_img_1.jpg"
           ]
         },
         {
-          "author": "fat rat",
+          "author": "Shitpost24×7",
           "handle": "",
-          "text": "Finally did it, im finally uw",
-          "replies": "",
-          "retweets": "1",
-          "likes": "7",
-          "timestamp": "2025-12-14T13:16:26.000Z",
+          "text": "FINALLY DID IT",
+          "replies": "2",
+          "retweets": "4",
+          "likes": "29",
+          "timestamp": "2025-12-16T12:02:00.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8IdFFIXUAIrcms?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8IdFD2WEAUJACf?format=jpg&name=large"
+            "https://pbs.twimg.com/media/G8SfNtYa4AA37xb?format=jpg&name=large"
           ],
           "downloaded_images": [
-            "FINALLY DID IT/tweet_2_reply_2_img_1.jpg",
-            "FINALLY DID IT/tweet_2_reply_2_img_2.jpg"
+            "FINALLY DID IT/tweet_2_reply_8_img_1.jpg"
           ]
         },
         {
-          "author": "Hero Wars",
+          "author": "Hornblasters",
           "handle": "",
-          "text": "Full Blown RPG in your browser: No Downloads - Just Click and Go!",
-          "replies": "",
-          "retweets": "",
-          "likes": "",
+          "text": "You can't honk a spare tire. Might as well put something useful there!",
+          "replies": "16",
+          "retweets": "16",
+          "likes": "195",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "William V. Mars",
+          "author": "Derigo",
           "handle": "",
-          "text": "I finally did it: Ran a full marathon! it's been on my bucket list for years. Had held off because I didn't think I was fast enough yet. But got to a point where I wasn't getting faster. so... now or never!",
-          "replies": "2",
-          "retweets": "",
-          "likes": "15",
-          "timestamp": "2025-12-16T01:14:19.000Z",
+          "text": "TWITTER HAS CHANGED THE LIKE BUTTON FOR RISHABH PANT RETAINED TO LSG  AT 27 CR.\n\n#IPLAuction #IPL2026Auction #iplauction2026\n#IPL2026Auction\nFinally did it",
+          "replies": "1",
+          "retweets": "3",
+          "likes": "10",
+          "timestamp": "2025-12-16T12:31:15.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8QK-jlboAAPtPC?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8QK-m1bgAIirXX?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8QK-oYa4AEBe_x?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8QK-nTa4AAl8bA?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8Sku2eaIAA2oy4?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "FINALLY DID IT/tweet_2_reply_4_img_1.jpg",
-            "FINALLY DID IT/tweet_2_reply_4_img_2.jpg",
-            "FINALLY DID IT/tweet_2_reply_4_img_3.jpg",
-            "FINALLY DID IT/tweet_2_reply_4_img_4.jpg"
-          ]
-        },
-        {
-          "author": "𝙣𝙞𝙣𝙣",
-          "handle": "",
-          "text": "finally did it!",
-          "replies": "83",
-          "retweets": "103",
-          "likes": "2K",
-          "timestamp": "2025-12-15T15:00:11.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8N-aA-bwAACNk0?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8N-aBAbcAAsQkE?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "FINALLY DID IT/tweet_2_reply_5_img_1.jpg",
-            "FINALLY DID IT/tweet_2_reply_5_img_2.jpg"
-          ]
-        },
-        {
-          "author": "Dimbo",
-          "handle": "",
-          "text": "I FINALLY DID IT",
-          "replies": "",
-          "retweets": "",
-          "likes": "8",
-          "timestamp": "2025-12-16T06:56:08.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8RZK-NWQAQDLRC?format=jpg&name=900x900"
-          ],
-          "downloaded_images": [
-            "FINALLY DID IT/tweet_2_reply_6_img_1.jpg"
-          ]
-        },
-        {
-          "author": "kee  MET JUCY",
-          "handle": "",
-          "text": "Finally did it!",
-          "replies": "",
-          "retweets": "",
-          "likes": "11",
-          "timestamp": "2025-12-15T03:30:58.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8Lgq5haAAA_dpI?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8Lgq52aEAEFbqt?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "FINALLY DID IT/tweet_2_reply_7_img_1.jpg",
-            "FINALLY DID IT/tweet_2_reply_7_img_2.jpg"
+            "FINALLY DID IT/tweet_2_reply_10_img_1.jpg"
           ]
         }
       ],
-      "reply_count": 7,
+      "reply_count": 10,
       "downloaded_images": [
-        "FINALLY DID IT/tweet_2_img_1.jpg",
-        "FINALLY DID IT/tweet_2_img_2.jpg"
+        "FINALLY DID IT/tweet_2_img_1.jpg"
       ]
     },
     {
-      "author": "Hero Wars",
+      "author": "Hornblasters",
       "handle": "",
-      "text": "Full Blown RPG in your browser: No Downloads - Just Click and Go!",
-      "replies": "",
-      "retweets": "",
-      "likes": "",
+      "text": "You can't honk a spare tire. Might as well put something useful there!",
+      "replies": "16",
+      "retweets": "16",
+      "likes": "195",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "fat rat",
+          "author": "Shitpost24×7",
           "handle": "",
-          "text": "Finally did it, im finally uw",
-          "replies": "",
-          "retweets": "1",
-          "likes": "7",
-          "timestamp": "2025-12-14T13:16:26.000Z",
+          "text": "FINALLY DID IT",
+          "replies": "2",
+          "retweets": "4",
+          "likes": "29",
+          "timestamp": "2025-12-16T12:02:00.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8IdFFIXUAIrcms?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8IdFD2WEAUJACf?format=jpg&name=large"
+            "https://pbs.twimg.com/media/G8SfNtYa4AA37xb?format=jpg&name=large"
           ],
           "downloaded_images": [
-            "FINALLY DID IT/tweet_3_reply_1_img_1.jpg",
-            "FINALLY DID IT/tweet_3_reply_1_img_2.jpg"
+            "FINALLY DID IT/tweet_3_reply_1_img_1.jpg"
           ]
         },
         {
-          "author": "Hero Wars",
+          "author": "Hornblasters",
           "handle": "",
-          "text": "Full Blown RPG in your browser: No Downloads - Just Click and Go!",
-          "replies": "",
-          "retweets": "",
-          "likes": "",
+          "text": "You can't honk a spare tire. Might as well put something useful there!",
+          "replies": "16",
+          "retweets": "16",
+          "likes": "195",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
+          "author": "Derigo",
+          "handle": "",
+          "text": "TWITTER HAS CHANGED THE LIKE BUTTON FOR RISHABH PANT RETAINED TO LSG  AT 27 CR.\n\n#IPLAuction #IPL2026Auction #iplauction2026\n#IPL2026Auction\nFinally did it",
+          "replies": "1",
+          "retweets": "3",
+          "likes": "10",
+          "timestamp": "2025-12-16T12:31:15.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Sku2eaIAA2oy4?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "FINALLY DID IT/tweet_3_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Cappy Bara",
+          "handle": "",
+          "text": "We finally did it!!\n\nGot a Scottish Fold!",
+          "replies": "5",
+          "retweets": "2",
+          "likes": "39",
+          "timestamp": "2025-12-15T23:10:13.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Pukofa0AAFSDl?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "FINALLY DID IT/tweet_3_reply_4_img_1.jpg"
+          ]
+        },
+        {
           "author": "William V. Mars",
           "handle": "",
           "text": "I finally did it: Ran a full marathon! it's been on my bucket list for years. Had held off because I didn't think I was fast enough yet. But got to a point where I wasn't getting faster. so... now or never!",
-          "replies": "2",
+          "replies": "4",
           "retweets": "",
-          "likes": "15",
+          "likes": "31",
           "timestamp": "2025-12-16T01:14:19.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8QK-jlboAAPtPC?format=jpg&name=large",
@@ -329,42 +366,10 @@
             "https://pbs.twimg.com/media/G8QK-nTa4AAl8bA?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "FINALLY DID IT/tweet_3_reply_3_img_1.jpg",
-            "FINALLY DID IT/tweet_3_reply_3_img_2.jpg",
-            "FINALLY DID IT/tweet_3_reply_3_img_3.jpg",
-            "FINALLY DID IT/tweet_3_reply_3_img_4.jpg"
-          ]
-        },
-        {
-          "author": "𝙣𝙞𝙣𝙣",
-          "handle": "",
-          "text": "finally did it!",
-          "replies": "83",
-          "retweets": "103",
-          "likes": "2K",
-          "timestamp": "2025-12-15T15:00:11.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8N-aA-bwAACNk0?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8N-aBAbcAAsQkE?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "FINALLY DID IT/tweet_3_reply_4_img_1.jpg",
-            "FINALLY DID IT/tweet_3_reply_4_img_2.jpg"
-          ]
-        },
-        {
-          "author": "Dimbo",
-          "handle": "",
-          "text": "I FINALLY DID IT",
-          "replies": "",
-          "retweets": "",
-          "likes": "8",
-          "timestamp": "2025-12-16T06:56:08.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8RZK-NWQAQDLRC?format=jpg&name=900x900"
-          ],
-          "downloaded_images": [
-            "FINALLY DID IT/tweet_3_reply_5_img_1.jpg"
+            "FINALLY DID IT/tweet_3_reply_5_img_1.jpg",
+            "FINALLY DID IT/tweet_3_reply_5_img_2.jpg",
+            "FINALLY DID IT/tweet_3_reply_5_img_3.jpg",
+            "FINALLY DID IT/tweet_3_reply_5_img_4.jpg"
           ]
         },
         {
@@ -373,7 +378,7 @@
           "text": "Finally did it!",
           "replies": "",
           "retweets": "",
-          "likes": "11",
+          "likes": "13",
           "timestamp": "2025-12-15T03:30:58.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8Lgq5haAAA_dpI?format=jpg&name=large",
@@ -383,20 +388,9 @@
             "FINALLY DID IT/tweet_3_reply_6_img_1.jpg",
             "FINALLY DID IT/tweet_3_reply_6_img_2.jpg"
           ]
-        },
-        {
-          "author": "Fannie Mae",
-          "handle": "",
-          "text": "Did you know HomeView® goes in-depth on closing costs?  Check out our free homebuyer education course today.",
-          "replies": "1",
-          "retweets": "23",
-          "likes": "210",
-          "timestamp": "",
-          "image_urls": [],
-          "downloaded_images": []
         }
       ],
-      "reply_count": 7,
+      "reply_count": 6,
       "downloaded_images": []
     }
   ]

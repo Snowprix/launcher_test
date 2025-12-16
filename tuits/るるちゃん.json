@@ -1,27 +1,27 @@
 {
   "trend": "るるちゃん",
-  "scraped_at": "2025-12-16T13:04:29.434659",
+  "scraped_at": "2025-12-16T13:50:19.753192",
   "tweet_count": 3,
-  "total_replies": 19,
-  "image_count": 9,
+  "total_replies": 21,
+  "image_count": 7,
   "tweets": [
     {
       "author": "にじさんじ公式",
       "handle": "",
       "text": "Let’s layer even more memories onto this palette \n\n12/23(Tue)22:00 Coming Soon...",
-      "replies": "1.5K",
-      "retweets": "136K",
-      "likes": "237K",
+      "replies": "1.6K",
+      "retweets": "141K",
+      "likes": "250K",
       "timestamp": "2025-12-16T09:00:01.000Z",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "Prime Intellect",
+          "author": "UFC",
           "handle": "",
-          "text": "Develop, train, and scale Al models. In one cloud that aggregates all clouds to enable efficient RL training and downstream evaluation.",
-          "replies": "",
-          "retweets": "",
-          "likes": "26",
+          "text": "This January",
+          "replies": "5",
+          "retweets": "18",
+          "likes": "243",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
@@ -30,9 +30,9 @@
           "author": "にじさんじ公式",
           "handle": "",
           "text": "【#Suzuhara Ruru New Merchandise Sales Confirmed!】\n\nStarting from 12/23 (Tue) 23:00, #nijistore will feature new arrivals: Suzuhara Ruru's \"Welcome Goods＆Voice\" and \"Nijipapetto\"!\nAdditionally, \"Nijisanji Puchi Second Wave Suzuhara Ruru\" and \"Permanent Seasonal Voice\" will also",
-          "replies": "319",
-          "retweets": "24K",
-          "likes": "69K",
+          "replies": "339",
+          "retweets": "25K",
+          "likes": "74K",
           "timestamp": "2025-12-16T09:30:27.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8R8h-Qa4AUnVq-?format=jpg&name=large"
@@ -53,41 +53,52 @@
           "downloaded_images": []
         },
         {
-          "author": "日辻ひこ",
+          "author": "鷹宮リオン",
           "handle": "",
-          "text": "#Ruru's Atelier\n\nRuru Suzuhara-chan, the sore loser, is cute\nhttps://youtu.be/mSnPLloP0q8?t=14314…",
-          "replies": "7",
-          "retweets": "666",
-          "likes": "2.7K",
-          "timestamp": "2020-06-27T10:58:07.000Z",
+          "text": "Ruru-chan, welcome back~",
+          "replies": "16",
+          "retweets": "259",
+          "likes": "7.1K",
+          "timestamp": "2025-12-16T10:45:41.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "るるてあ",
+          "handle": "",
+          "text": "Kopeng-chan was watching!",
+          "replies": "89",
+          "retweets": "2.6K",
+          "likes": "14K",
+          "timestamp": "2025-12-15T21:21:59.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/Ebg3SrDUEAAjUQ8?format=png&name=900x900"
+            "https://pbs.twimg.com/media/G8PVzcua4AArtpj?format=jpg&name=large"
           ],
           "downloaded_images": [
-            "るるちゃん/tweet_1_reply_4_img_1.jpg"
+            "るるちゃん/tweet_1_reply_5_img_1.jpg"
           ]
         }
       ],
-      "reply_count": 4,
+      "reply_count": 5,
       "downloaded_images": []
     },
     {
-      "author": "Prime Intellect",
+      "author": "UFC",
       "handle": "",
-      "text": "Develop, train, and scale Al models. In one cloud that aggregates all clouds to enable efficient RL training and downstream evaluation.",
-      "replies": "",
-      "retweets": "",
-      "likes": "26",
+      "text": "This January",
+      "replies": "5",
+      "retweets": "18",
+      "likes": "243",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "Prime Intellect",
+          "author": "UFC",
           "handle": "",
-          "text": "Develop, train, and scale Al models. In one cloud that aggregates all clouds to enable efficient RL training and downstream evaluation.",
-          "replies": "",
-          "retweets": "",
-          "likes": "26",
+          "text": "This January",
+          "replies": "5",
+          "retweets": "18",
+          "likes": "243",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
@@ -96,9 +107,9 @@
           "author": "にじさんじ公式",
           "handle": "",
           "text": "【#Suzuhara Ruru New Merchandise Sales Confirmed!】\n\nStarting from 12/23 (Tue) 23:00, #nijistore will feature new arrivals: Suzuhara Ruru's \"Welcome Goods＆Voice\" and \"Nijipapetto\"!\nAdditionally, \"Nijisanji Puchi Second Wave Suzuhara Ruru\" and \"Permanent Seasonal Voice\" will also",
-          "replies": "319",
-          "retweets": "24K",
-          "likes": "69K",
+          "replies": "339",
+          "retweets": "25K",
+          "likes": "74K",
           "timestamp": "2025-12-16T09:30:27.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8R8h-Qa4AUnVq-?format=jpg&name=large"
@@ -119,48 +130,53 @@
           "downloaded_images": []
         },
         {
-          "author": "日辻ひこ",
+          "author": "鷹宮リオン",
           "handle": "",
-          "text": "#Ruru's Atelier\n\nRuru Suzuhara-chan, the sore loser, is cute\nhttps://youtu.be/mSnPLloP0q8?t=14314…",
-          "replies": "7",
-          "retweets": "666",
-          "likes": "2.7K",
-          "timestamp": "2020-06-27T10:58:07.000Z",
+          "text": "Ruru-chan, welcome back~",
+          "replies": "16",
+          "retweets": "259",
+          "likes": "7.1K",
+          "timestamp": "2025-12-16T10:45:41.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "るるてあ",
+          "handle": "",
+          "text": "Kopeng-chan was watching!",
+          "replies": "89",
+          "retweets": "2.6K",
+          "likes": "14K",
+          "timestamp": "2025-12-15T21:21:59.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/Ebg3SrDUEAAjUQ8?format=png&name=900x900"
+            "https://pbs.twimg.com/media/G8PVzcua4AArtpj?format=jpg&name=large"
           ],
           "downloaded_images": [
-            "るるちゃん/tweet_2_reply_4_img_1.jpg"
+            "るるちゃん/tweet_2_reply_5_img_1.jpg"
           ]
         },
         {
-          "author": "がめまる",
+          "author": "FLORA ©",
           "handle": "",
-          "text": "The fact that the wording \"Let's make even more memories together.\" is shared between chan's similar tweet from 6 years ago and Ruruchan's post this time, and that it's being carried over from back then, somehow really tugs at my heartstrings...",
-          "replies": "1",
-          "retweets": "1.5K",
-          "likes": "9.8K",
-          "timestamp": "2025-12-16T09:11:10.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8R3DI7aQAASflj?format=png&name=large",
-            "https://pbs.twimg.com/media/G8R3NQna0AArS3F?format=png&name=large"
-          ],
-          "downloaded_images": [
-            "るるちゃん/tweet_2_reply_5_img_1.jpg",
-            "るるちゃん/tweet_2_reply_5_img_2.jpg"
-          ]
+          "text": "Character and style consistency just became effortless. \n\nNano Banana Pro is now in FLORA.",
+          "replies": "",
+          "retweets": "6",
+          "likes": "46",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
         }
       ],
-      "reply_count": 5,
+      "reply_count": 6,
       "downloaded_images": []
     },
     {
       "author": "にじさんじ公式",
       "handle": "",
       "text": "【#Suzuhara Ruru New Merchandise Sales Confirmed!】\n\nStarting from 12/23 (Tue) 23:00, #nijistore will feature new arrivals: Suzuhara Ruru's \"Welcome Goods＆Voice\" and \"Nijipapetto\"!\nAdditionally, \"Nijisanji Puchi Second Wave Suzuhara Ruru\" and \"Permanent Seasonal Voice\" will also",
-      "replies": "319",
-      "retweets": "24K",
-      "likes": "69K",
+      "replies": "339",
+      "retweets": "25K",
+      "likes": "74K",
       "timestamp": "2025-12-16T09:30:27.000Z",
       "image_urls": [
         "https://pbs.twimg.com/media/G8R8h-Qa4AUnVq-?format=jpg&name=large"
@@ -170,13 +186,13 @@
           "author": "にじさんじ公式",
           "handle": "",
           "text": "【#NIJISANJI_EN Official Storeでも一部販売決定！】\n\n#SuzuharaRuru Welcome Goods＆Voice will also be available for sale at the NIJISANJI EN Official Store!\n\nWelcome Goods＆Voice▼\nhttps://nijisanji-store.com/collections/suzuhara-lulu-welcome-goods-voice…",
-          "replies": "27",
-          "retweets": "896",
-          "likes": "6.8K",
+          "replies": "30",
+          "retweets": "936",
+          "likes": "7.3K",
           "timestamp": "2025-12-16T09:31:01.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8R8qBOa4AQlqjn?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R8qBfbcAAm9TH?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8R8qBOa4AQlqjn?format=jpg&name=240x240",
+            "https://pbs.twimg.com/media/G8R8qBfbcAAm9TH?format=jpg&name=240x240"
           ],
           "downloaded_images": [
             "るるちゃん/tweet_3_reply_1_img_1.jpg",
@@ -189,30 +205,19 @@
           "text": "Suzuhara Ruru's new merch, keep an eye on purchase timing since there will also be a restock.",
           "replies": "",
           "retweets": "",
-          "likes": "9",
+          "likes": "15",
           "timestamp": "2025-12-16T10:46:55.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "ぬめめぬめめめ",
+          "author": "零",
           "handle": "",
-          "text": "I wish they'd sell bags too...  \nThey call it a welcome bag, lol",
-          "replies": "12",
-          "retweets": "53",
-          "likes": "1.1K",
-          "timestamp": "2025-12-16T10:19:41.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "塩焼",
-          "handle": "",
-          "text": "You're so good at business, even when I'm crying...  \nThank you, management.",
-          "replies": "3",
+          "text": "Buy buy buy",
+          "replies": "",
           "retweets": "",
-          "likes": "429",
-          "timestamp": "2025-12-16T09:32:58.000Z",
+          "likes": "",
+          "timestamp": "2025-12-16T10:35:11.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
@@ -222,8 +227,30 @@
           "text": "I'll buy as many as my age for Gates!!",
           "replies": "1",
           "retweets": "",
-          "likes": "14",
+          "likes": "15",
           "timestamp": "2025-12-16T09:38:50.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "塩焼",
+          "handle": "",
+          "text": "You're so good at business, even when I'm crying...  \nThank you, management.",
+          "replies": "3",
+          "retweets": "",
+          "likes": "480",
+          "timestamp": "2025-12-16T09:32:58.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "ぬめめぬめめめ",
+          "handle": "",
+          "text": "I wish they'd sell bags too...  \nThey call it a welcome bag, lol",
+          "replies": "12",
+          "retweets": "64",
+          "likes": "1.4K",
+          "timestamp": "2025-12-16T10:19:41.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
@@ -244,7 +271,7 @@
           "text": "Welcome Lulukchan",
           "replies": "",
           "retweets": "",
-          "likes": "2",
+          "likes": "6",
           "timestamp": "2025-12-16T12:47:21.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -268,17 +295,6 @@
           "retweets": "",
           "likes": "3",
           "timestamp": "2025-12-16T09:31:20.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
-          "author": "MysticStormZ",
-          "handle": "",
-          "text": "彼らはウェルカムグッズと言いましたが、私の銀行口座には入金されませんでした。",
-          "replies": "",
-          "retweets": "",
-          "likes": "",
-          "timestamp": "2025-12-16T12:49:35.000Z",
           "image_urls": [],
           "downloaded_images": []
         }
