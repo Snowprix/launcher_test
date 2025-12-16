@@ -1,0 +1,169 @@
+{
+  "trend": "The PENGU",
+  "scraped_at": "2025-12-16T13:08:21.299706",
+  "tweet_count": 3,
+  "total_replies": 10,
+  "image_count": 3,
+  "tweets": [
+    {
+      "author": "Pengu",
+      "handle": "",
+      "text": "thankful for the character development but is it okay if i can start to enjoy being alive now or",
+      "replies": "17",
+      "retweets": "4.2K",
+      "likes": "16K",
+      "timestamp": "2025-12-15T20:09:45.000Z",
+      "image_urls": [],
+      "thread_replies": [
+        {
+          "author": "Kirb.",
+          "handle": "",
+          "text": "Nobody gets a break from character development, trust me",
+          "replies": "1",
+          "retweets": "2",
+          "likes": "30",
+          "timestamp": "2025-12-15T20:56:22.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Pengu",
+          "handle": "",
+          "text": "oh trust me i know, full time job in itself",
+          "replies": "1",
+          "retweets": "",
+          "likes": "17",
+          "timestamp": "2025-12-15T21:05:44.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Jin",
+          "handle": "",
+          "text": "You need no permission from anyone besides yourself.",
+          "replies": "3",
+          "retweets": "",
+          "likes": "22",
+          "timestamp": "2025-12-15T21:32:37.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Pengu",
+          "handle": "",
+          "text": "i'm asking myself for permission on this tweet tbh",
+          "replies": "1",
+          "retweets": "",
+          "likes": "24",
+          "timestamp": "2025-12-16T00:13:19.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "shub",
+          "handle": "",
+          "text": "it’s time to lock in twin",
+          "replies": "1",
+          "retweets": "",
+          "likes": "1",
+          "timestamp": "2025-12-15T20:39:56.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Pengu",
+          "handle": "",
+          "text": "the lock in question",
+          "replies": "1",
+          "retweets": "",
+          "likes": "10",
+          "timestamp": "2025-12-15T20:45:48.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8PNeQfXkAA-DYF?format=png&name=large"
+          ],
+          "downloaded_images": [
+            "The PENGU/tweet_1_reply_6_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Oof",
+          "handle": "",
+          "text": "I believe in you, Pengu!",
+          "replies": "1",
+          "retweets": "",
+          "likes": "2",
+          "timestamp": "2025-12-15T20:46:16.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Pengu",
+          "handle": "",
+          "text": "thank you! i believe in you too",
+          "replies": "1",
+          "retweets": "",
+          "likes": "2",
+          "timestamp": "2025-12-15T21:06:08.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Saint Chevalier",
+          "handle": "",
+          "text": "Id appreciate it if I could also enjoy being alive after the life lessons. Would be great  I feel this post",
+          "replies": "1",
+          "retweets": "",
+          "likes": "4",
+          "timestamp": "2025-12-15T22:51:37.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Pengu",
+          "handle": "",
+          "text": "no deadass let me get to experience life after learning the lessons LMAO",
+          "replies": "",
+          "retweets": "",
+          "likes": "3",
+          "timestamp": "2025-12-16T00:12:55.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        }
+      ],
+      "reply_count": 10,
+      "downloaded_images": []
+    },
+    {
+      "author": "JBond",
+      "handle": "",
+      "text": "Pudgy Penguins this week: “We are dropping a toy with Care Bears and we are wrapping the Sphere with $PENGU during the Christmas week”\n\nAnd yet $PENGU & Pudgy Penguins prices have been nuking this week\n\nIt doesn’t make any sense",
+      "replies": "103",
+      "retweets": "8",
+      "likes": "204",
+      "timestamp": "2025-12-16T03:16:36.000Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G8Qm93baAAAhZcr?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8Qm93XaMAAyW6x?format=jpg&name=360x360"
+      ],
+      "thread_replies": [],
+      "reply_count": 0,
+      "downloaded_images": [
+        "The PENGU/tweet_2_img_1.jpg",
+        "The PENGU/tweet_2_img_2.jpg"
+      ]
+    },
+    {
+      "author": "Cloudinary",
+      "handle": "",
+      "text": "Three Million Developers. Thank you for building with us.",
+      "replies": "",
+      "retweets": "10",
+      "likes": "55",
+      "timestamp": "",
+      "image_urls": [],
+      "thread_replies": [],
+      "reply_count": 0,
+      "downloaded_images": []
+    }
+  ]
+}
