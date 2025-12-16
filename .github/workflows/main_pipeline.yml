@@ -13,7 +13,7 @@ jobs:
   orquestador-de-noticias:
     name: 🚀 Ejecutar Pipeline de Datos
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 260
     permissions:
       contents: write
       
