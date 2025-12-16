@@ -1,63 +1,75 @@
 {
   "trend": "#OTGalaFinal",
-  "scraped_at": "2025-12-15T23:02:43.268285",
+  "scraped_at": "2025-12-16T02:00:43.462225",
   "tweet_count": 2,
   "total_replies": 2,
-  "image_count": 1,
+  "image_count": 6,
   "tweets": [
     {
-      "author": "sergiooc15",
+      "author": "arantxa",
       "handle": "",
-      "text": "Cierrales la puta boca al jurado que te puso un 7,5 \n #OTGalaFinal",
-      "replies": "1",
-      "retweets": "344",
-      "likes": "2.7K",
-      "timestamp": "2025-12-15T21:59:08.000Z",
+      "text": "la ruslana experiencia al completo #OTGalaFinal",
+      "replies": "7",
+      "retweets": "811",
+      "likes": "6.2K",
+      "timestamp": "2025-12-15T23:19:19.000Z",
       "image_urls": [
-        "https://pbs.twimg.com/media/G8PeTinXkAQjdnA?format=jpg&name=large"
+        "https://pbs.twimg.com/media/G8PwqH0XIAIaKTi?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8PwqHzWgAAxIXM?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8PwqHxWoAQOIEg?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8PwqHzXcAk1vkh?format=jpg&name=360x360"
       ],
       "thread_replies": [
         {
-          "author": "𝕽𝖆𝖖𝖚𝖊𝖑",
+          "author": "luis; OLIVIA GANADORA",
           "handle": "",
-          "text": "Bien lo dijo Ruslana. Los 7,5 acaban siendo los mejores",
-          "replies": "",
-          "retweets": "1",
-          "likes": "11",
-          "timestamp": "2025-12-15T22:00:24.000Z",
+          "text": "me temo que tinho no tiene +200k en insta",
+          "replies": "7",
+          "retweets": "",
+          "likes": "4",
+          "timestamp": "2025-12-15T23:44:18.000Z",
           "image_urls": [],
           "downloaded_images": []
         }
       ],
       "reply_count": 1,
       "downloaded_images": [
-        "_OTGalaFinal/tweet_1_img_1.jpg"
+        "_OTGalaFinal/tweet_1_img_1.jpg",
+        "_OTGalaFinal/tweet_1_img_2.jpg",
+        "_OTGalaFinal/tweet_1_img_3.jpg",
+        "_OTGalaFinal/tweet_1_img_4.jpg"
       ]
     },
     {
-      "author": "yeray:) OLIVIA GANADERA",
+      "author": "Triana",
       "handle": "",
-      "text": "Guille Milkyway: “Tinho cómetelo todo ahí fuera”\nLa novia:\n#OTGalaFinal",
-      "replies": "",
-      "retweets": "1819",
-      "likes": "410",
-      "timestamp": "2025-12-15T22:52:36.000Z",
-      "image_urls": [],
+      "text": "Cumplió su sueño. #OTGalaFinal",
+      "replies": "11",
+      "retweets": "1.7K",
+      "likes": "9.3K",
+      "timestamp": "2025-12-15T23:22:39.000Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G8Pxa9TWMAQt3Io?format=jpg&name=360x360",
+        "https://pbs.twimg.com/media/G8Pxa9QWYAov8Oz?format=jpg&name=large"
+      ],
       "thread_replies": [
         {
-          "author": "yeray:) OLIVIA GANADERA",
+          "author": "zaxxx",
           "handle": "",
-          "text": "Guille Milkyway: “Tinho cómetelo todo ahí fuera”\nLa novia:\n#OTGalaFinal",
+          "text": "q tenia hasta la firma de Eli",
           "replies": "",
-          "retweets": "19",
-          "likes": "410",
-          "timestamp": "2025-12-15T22:52:36.000Z",
+          "retweets": "",
+          "likes": "76",
+          "timestamp": "2025-12-15T23:25:44.000Z",
           "image_urls": [],
           "downloaded_images": []
         }
       ],
       "reply_count": 1,
-      "downloaded_images": []
+      "downloaded_images": [
+        "_OTGalaFinal/tweet_2_img_1.jpg",
+        "_OTGalaFinal/tweet_2_img_2.jpg"
+      ]
     }
   ]
 }
