@@ -1,145 +1,230 @@
 {
   "trend": "PERTHSANTA AVATAR GALA",
-  "scraped_at": "2025-12-16T13:50:55.803627",
+  "scraped_at": "2025-12-16T15:35:19.449306",
   "tweet_count": 3,
-  "total_replies": 13,
-  "image_count": 12,
+  "total_replies": 25,
+  "image_count": 18,
   "tweets": [
     {
-      "author": "Santapp INA FanClub",
+      "author": "ADD  SUPPAWAN",
       "handle": "",
-      "text": ": What happened yesterday? You guys really played like that?\n: That's very normal.\n: Just playing as usual.\n\n//normal for you guys, but it drives us crazy for us, but we like it hehe\n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS",
-      "replies": "3",
-      "retweets": "74",
-      "likes": "92",
-      "timestamp": "2025-12-16T12:48:59.000Z",
+      "text": "ตัวแทนเผ่าน้ำ…\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+      "replies": "144",
+      "retweets": "4.2K",
+      "likes": "5.9K",
+      "timestamp": "2025-12-16T11:43:45.000Z",
       "image_urls": [
-        "https://pbs.twimg.com/media/G8SoYszaIAA_aeA?format=jpg&name=360x360"
+        "https://pbs.twimg.com/media/G8Sa-cNa4AAEwg4?format=jpg&name=360x360"
       ],
       "thread_replies": [
         {
-          "author": "Liberty University Online",
+          "author": "Rattanaporh(แมว)ติดตามเมน#PerthTanapon",
           "handle": "",
-          "text": "This Spring, Your Future Awaits!\n\nEnter today for a chance to win your share of $250,000 in scholarships. Be one of the 50 winners to unlock new possibilities!",
-          "replies": "2",
-          "retweets": "5",
-          "likes": "25",
+          "text": "ว้าว.น้องเพิร์ธน้องแซนต้า.\nตัวแทนเผ่าน้ำ \n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS \n#PerthSanta #เพิร์ธเเซนต้า",
+          "replies": "",
+          "retweets": "",
+          "likes": "1",
+          "timestamp": "2025-12-16T12:50:51.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SqZk6a4AIoSx_?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "PERTHSANTA AVATAR GALA/tweet_1_reply_1_img_1.jpg"
+          ]
+        },
+        {
+          "author": "Prime Intellect",
+          "handle": "",
+          "text": "Develop, train, and scale Al models. In one cloud that aggregates all clouds to enable efficient RL training and downstream evaluation.",
+          "replies": "",
+          "retweets": "",
+          "likes": "26",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "𝙋.𝙎.𝙄𝙇𝙐𝙑𝙑𝙐",
+          "author": "น้องแซนต้าคนเท่",
           "handle": "",
-          "text": "เหตุการณ์เมื่อวานคือยังไง เล่นกันขนาดนั้นเลยหรอ\n: ปกติมาก\n: เล่นกันปกติ\n\n//ป้าถามว่าจริงหรอ ป้าเป็นลิงเรียบร้อย\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-          "replies": "47",
-          "retweets": "1.7K",
-          "likes": "2.1K",
-          "timestamp": "2025-12-16T12:42:22.000Z",
+          "text": "เป็นคู่ที่ยืนยันว่า ยิ่งหล่อคู่ ยิ่งน่ารักคู่ ยิ่งเหมาะสมเป็นที่สุดจริงๆ ค่ะ\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS\n#PerthTanapon #Santapp \n#PerthSanta #เพิร์ธแซนต้า",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T13:37:04.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8SoYszaIAA_aeA?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8S0-O7bsAAxNsm?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_1_reply_2_img_1.jpg"
+            "PERTHSANTA AVATAR GALA/tweet_1_reply_3_img_1.jpg"
           ]
+        },
+        {
+          "author": "Perthperth",
+          "handle": "",
+          "text": "ชีวิตขาดน้ำไม่เลย..ทีเดียว\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "1",
+          "timestamp": "2025-12-16T12:14:27.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Narunchar RCWD",
+          "handle": "",
+          "text": "สองแสบของแม่หล่อมากกก\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "2",
+          "likes": "",
+          "timestamp": "2025-12-16T11:51:41.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Sweetie ◡̈ ⑅˗ 𓈈⋆｡˚",
+          "handle": "",
+          "text": "คนหล่อขนาดนี้ เป็นลูกเราสินะ\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T12:04:40.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Ae+มี๊แซนต้า",
+          "handle": "",
+          "text": "ขออยู่เผ่าน้ำด้วยคนนะแม่\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T12:06:33.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "ไม่เอาไรแล้วนอกจากเพิร์ธแซนต้า",
+          "handle": "",
+          "text": "เผ่าสายน้ำเขาว่าหน้าตาดี \n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T12:32:55.000Z",
+          "image_urls": [],
+          "downloaded_images": []
         },
         {
           "author": "ADD  SUPPAWAN",
           "handle": "",
           "text": "ตัวแทนเผ่าน้ำ…\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-          "replies": "130",
-          "retweets": "3.4K",
-          "likes": "4.6K",
+          "replies": "144",
+          "retweets": "4.2K",
+          "likes": "5.9K",
           "timestamp": "2025-12-16T11:43:45.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8Sa-cNa4AAEwg4?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_1_reply_3_img_1.jpg"
+            "PERTHSANTA AVATAR GALA/tweet_1_reply_9_img_1.jpg"
           ]
+        },
+        {
+          "author": "Curaleaf",
+          "handle": "",
+          "text": "Light up the season with Anthem - packed with premium flower and built for the bold.",
+          "replies": "",
+          "retweets": "",
+          "likes": "2",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
         }
       ],
-      "reply_count": 3,
+      "reply_count": 10,
       "downloaded_images": [
         "PERTHSANTA AVATAR GALA/tweet_1_img_1.jpg"
       ]
     },
     {
-      "author": "Liberty University Online",
+      "author": "Curaleaf",
       "handle": "",
-      "text": "This Spring, Your Future Awaits!\n\nEnter today for a chance to win your share of $250,000 in scholarships. Be one of the 50 winners to unlock new possibilities!",
-      "replies": "2",
-      "retweets": "5",
-      "likes": "25",
+      "text": "Light up the season with Anthem - packed with premium flower and built for the bold.",
+      "replies": "",
+      "retweets": "",
+      "likes": "2",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [
         {
-          "author": "Liberty University Online",
+          "author": "Curaleaf",
           "handle": "",
-          "text": "This Spring, Your Future Awaits!\n\nEnter today for a chance to win your share of $250,000 in scholarships. Be one of the 50 winners to unlock new possibilities!",
-          "replies": "2",
-          "retweets": "5",
-          "likes": "25",
+          "text": "Light up the season with Anthem - packed with premium flower and built for the bold.",
+          "replies": "",
+          "retweets": "",
+          "likes": "2",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "𝙋.𝙎.𝙄𝙇𝙐𝙑𝙑𝙐",
+          "author": "𝑯𝒆𝒂𝒓𝒕 𝑨𝒕𝒕𝒂𝒄𝒌",
           "handle": "",
-          "text": "เหตุการณ์เมื่อวานคือยังไง เล่นกันขนาดนั้นเลยหรอ\n: ปกติมาก\n: เล่นกันปกติ\n\n//ป้าถามว่าจริงหรอ ป้าเป็นลิงเรียบร้อย\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-          "replies": "47",
-          "retweets": "1.7K",
-          "likes": "2.1K",
-          "timestamp": "2025-12-16T12:42:22.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8SoYszaIAA_aeA?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_2_reply_2_img_1.jpg"
-          ]
-        },
-        {
-          "author": "ADD  SUPPAWAN",
-          "handle": "",
-          "text": "ตัวแทนเผ่าน้ำ…\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-          "replies": "130",
-          "retweets": "3.4K",
-          "likes": "4.6K",
-          "timestamp": "2025-12-16T11:43:45.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8Sa-cNa4AAEwg4?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_2_reply_3_img_1.jpg"
-          ]
-        },
-        {
-          "author": "bacon,",
-          "handle": "",
-          "text": "เคมีทรงพลัง \n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS\n#PerthSanta #เพิร์ธแซนต้า",
-          "replies": "36",
+          "text": "Gmmtv เราไม่ได้คัดคนปกติเข้ามาอยู่แล้ว\n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS",
+          "replies": "7",
           "retweets": "1.1K",
-          "likes": "1.3K",
-          "timestamp": "2025-12-16T11:31:58.000Z",
+          "likes": "1.2K",
+          "timestamp": "2025-12-16T12:09:54.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8SYWiVboAAkQJY?format=jpg&name=large"
+            "https://pbs.twimg.com/media/G8ShAuDa4AISFKh?format=jpg&name=large",
+            "https://pbs.twimg.com/media/G8ShAt8bMAAzfG5?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "PERTHSANTA AVATAR GALA/tweet_2_reply_2_img_1.jpg",
+            "PERTHSANTA AVATAR GALA/tweet_2_reply_2_img_2.jpg"
+          ]
+        },
+        {
+          "author": "EEEnrin",
+          "handle": "",
+          "text": "หล่อที่สุดทั้งสองคน!!!! \n\nPERTHSANTA AVATAR GALA\n#AvatarFireAndAshTHxPS \n#PerthSanta #เพิร์ธแซนต้า\n#PerthTanapon #Santapp",
+          "replies": "12",
+          "retweets": "836",
+          "likes": "921",
+          "timestamp": "2025-12-16T12:10:53.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8ShQQRa4FIVLaE?format=jpg&name=large",
+            "https://pbs.twimg.com/media/G8ShQPcbYAAJqHA?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "PERTHSANTA AVATAR GALA/tweet_2_reply_3_img_1.jpg",
+            "PERTHSANTA AVATAR GALA/tweet_2_reply_3_img_2.jpg"
+          ]
+        },
+        {
+          "author": "sasi",
+          "handle": "",
+          "text": "20251216 \n- ของดีเผ่าน้ำครับ \n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS \n#Santapp \n#PerthSanta #เพิร์ธแซนต้า",
+          "replies": "51",
+          "retweets": "2.4K",
+          "likes": "3K",
+          "timestamp": "2025-12-16T11:41:20.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SafO6aMAAnIpy?format=jpg&name=large"
           ],
           "downloaded_images": [
             "PERTHSANTA AVATAR GALA/tweet_2_reply_4_img_1.jpg"
           ]
         },
         {
-          "author": "𝑯𝒆𝒂𝒓𝒕 𝑨𝒕𝒕𝒂𝒄𝒌",
+          "author": "𝙋.𝙎.𝙄𝙇𝙐𝙑𝙑𝙐",
           "handle": "",
-          "text": "ชาวนาวีคนนี้หล่อจังงงงง\n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS",
-          "replies": "2",
-          "retweets": "295",
-          "likes": "313",
-          "timestamp": "2025-12-16T12:47:23.000Z",
+          "text": "เหตุการณ์เมื่อวานคือยังไง เล่นกันขนาดนั้นเลยหรอ\n: ปกติมาก\n: เล่นกันปกติ\n\n//ป้าถามว่าจริงหรอ ป้าเป็นลิงเรียบร้อย\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "53",
+          "retweets": "2.4K",
+          "likes": "3.1K",
+          "timestamp": "2025-12-16T12:42:22.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8SpgySbMAAae2D?format=jpg&name=large"
+            "https://pbs.twimg.com/media/G8SoYszaIAA_aeA?format=jpg&name=360x360"
           ],
           "downloaded_images": [
             "PERTHSANTA AVATAR GALA/tweet_2_reply_5_img_1.jpg"
@@ -150,92 +235,151 @@
       "downloaded_images": []
     },
     {
-      "author": "𝙋.𝙎.𝙄𝙇𝙐𝙑𝙑𝙐",
+      "author": "𝑯𝒆𝒂𝒓𝒕 𝑨𝒕𝒕𝒂𝒄𝒌",
       "handle": "",
-      "text": "เหตุการณ์เมื่อวานคือยังไง เล่นกันขนาดนั้นเลยหรอ\n: ปกติมาก\n: เล่นกันปกติ\n\n//ป้าถามว่าจริงหรอ ป้าเป็นลิงเรียบร้อย\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-      "replies": "47",
-      "retweets": "1.7K",
-      "likes": "2.1K",
-      "timestamp": "2025-12-16T12:42:22.000Z",
+      "text": "Gmmtv เราไม่ได้คัดคนปกติเข้ามาอยู่แล้ว\n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS",
+      "replies": "7",
+      "retweets": "1.1K",
+      "likes": "1.2K",
+      "timestamp": "2025-12-16T12:09:54.000Z",
       "image_urls": [
-        "https://pbs.twimg.com/media/G8SoYszaIAA_aeA?format=jpg&name=360x360"
+        "https://pbs.twimg.com/media/G8ShAuDa4AISFKh?format=jpg&name=large",
+        "https://pbs.twimg.com/media/G8ShAt8bMAAzfG5?format=jpg&name=large"
       ],
       "thread_replies": [
         {
-          "author": "Liberty University Online",
+          "author": "Saung Cherry",
           "handle": "",
-          "text": "This Spring, Your Future Awaits!\n\nEnter today for a chance to win your share of $250,000 in scholarships. Be one of the 50 winners to unlock new possibilities!",
-          "replies": "2",
-          "retweets": "5",
-          "likes": "25",
+          "text": "#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "1",
+          "timestamp": "2025-12-16T12:34:21.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8Smni0a4AAvg2j?format=jpg&name=360x360"
+          ],
+          "downloaded_images": [
+            "PERTHSANTA AVATAR GALA/tweet_3_reply_1_img_1.jpg"
+          ]
+        },
+        {
+          "author": "FreshStartInfo",
+          "handle": "",
+          "text": "URGENT: The IRS is ramping up back tax collections with the December deadline coming. Most people get the best results the sooner they reach out. Click below for more info.",
+          "replies": "6",
+          "retweets": "13",
+          "likes": "62",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "𝙋.𝙎.𝙄𝙇𝙐𝙑𝙑𝙐",
+          "author": "泡泡塔塔99",
           "handle": "",
-          "text": "เหตุการณ์เมื่อวานคือยังไง เล่นกันขนาดนั้นเลยหรอ\n: ปกติมาก\n: เล่นกันปกติ\n\n//ป้าถามว่าจริงหรอ ป้าเป็นลิงเรียบร้อย\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-          "replies": "47",
-          "retweets": "1.7K",
-          "likes": "2.1K",
-          "timestamp": "2025-12-16T12:42:22.000Z",
+          "text": "It's so cute. It's like two kittens.\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T13:10:07.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Mimi (Ppepp)",
+          "handle": "",
+          "text": "So cute cute eee\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T14:01:49.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "PSD_fan",
+          "handle": "",
+          "text": "So cute~ Narak~~~ Cute boys!\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T12:28:07.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Peeko_LV",
+          "handle": "",
+          "text": "สู้กับใครครับลูกกกกก\n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS",
+          "replies": "",
+          "retweets": "",
+          "likes": "",
+          "timestamp": "2025-12-16T14:33:34.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "Major Group",
+          "handle": "",
+          "text": "อวตารเผ่าไหน หล่อขนาดนี้ค้าบ \n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
+          "replies": "161",
+          "retweets": "3.5K",
+          "likes": "4.3K",
+          "timestamp": "2025-12-16T11:41:46.000Z",
+          "image_urls": [],
+          "downloaded_images": []
+        },
+        {
+          "author": "All Area Entertainment",
+          "handle": "",
+          "text": "“เพิร์ธ - แซนต้า” ร่วมงาน ' Avatar : Fire And Ash Thailand Gala Premiere & Immersive Experience Grand Opening '\n\nPERTHSANTA AVATAR GALA \n#AvatarFireAndAshTHxPS\n#AvatarFireAndAshTH #อวตาร3",
+          "replies": "101",
+          "retweets": "2.6K",
+          "likes": "3.1K",
+          "timestamp": "2025-12-16T11:59:11.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8SoYszaIAA_aeA?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8Sejrwa4AEnw83?format=jpg&name=240x240",
+            "https://pbs.twimg.com/media/G8Sejr6a4AUd0vv?format=jpg&name=240x240",
+            "https://pbs.twimg.com/media/G8Sejr0a4AYLSYD?format=jpg&name=240x240",
+            "https://pbs.twimg.com/media/G8Sejr8a4AUovkn?format=jpg&name=240x240"
           ],
           "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_3_reply_2_img_1.jpg"
+            "PERTHSANTA AVATAR GALA/tweet_3_reply_8_img_1.jpg",
+            "PERTHSANTA AVATAR GALA/tweet_3_reply_8_img_2.jpg",
+            "PERTHSANTA AVATAR GALA/tweet_3_reply_8_img_3.jpg",
+            "PERTHSANTA AVATAR GALA/tweet_3_reply_8_img_4.jpg"
           ]
         },
         {
           "author": "ADD  SUPPAWAN",
           "handle": "",
           "text": "ตัวแทนเผ่าน้ำ…\n\nPERTHSANTA AVATAR GALA \n\n#AvatarFireAndAshTHxPS",
-          "replies": "130",
-          "retweets": "3.4K",
-          "likes": "4.6K",
+          "replies": "144",
+          "retweets": "4.2K",
+          "likes": "5.9K",
           "timestamp": "2025-12-16T11:43:45.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8Sa-cNa4AAEwg4?format=jpg&name=360x360"
           ],
           "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_3_reply_3_img_1.jpg"
+            "PERTHSANTA AVATAR GALA/tweet_3_reply_9_img_1.jpg"
           ]
         },
         {
-          "author": "bacon,",
+          "author": "Curaleaf",
           "handle": "",
-          "text": "เคมีทรงพลัง \n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS\n#PerthSanta #เพิร์ธแซนต้า",
-          "replies": "36",
-          "retweets": "1.1K",
-          "likes": "1.3K",
-          "timestamp": "2025-12-16T11:31:58.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8SYWiVboAAkQJY?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_3_reply_4_img_1.jpg"
-          ]
-        },
-        {
-          "author": "𝑯𝒆𝒂𝒓𝒕 𝑨𝒕𝒕𝒂𝒄𝒌",
-          "handle": "",
-          "text": "ชาวนาวีคนนี้หล่อจังงงงง\n\nPERTHSANTA AVATAR GALA\n\n#AvatarFireAndAshTHxPS",
-          "replies": "2",
-          "retweets": "295",
-          "likes": "313",
-          "timestamp": "2025-12-16T12:47:23.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8SpgySbMAAae2D?format=jpg&name=large"
-          ],
-          "downloaded_images": [
-            "PERTHSANTA AVATAR GALA/tweet_3_reply_5_img_1.jpg"
-          ]
+          "text": "Light up the season with Anthem - packed with premium flower and built for the bold.",
+          "replies": "",
+          "retweets": "",
+          "likes": "2",
+          "timestamp": "",
+          "image_urls": [],
+          "downloaded_images": []
         }
       ],
-      "reply_count": 5,
+      "reply_count": 10,
       "downloaded_images": [
-        "PERTHSANTA AVATAR GALA/tweet_3_img_1.jpg"
+        "PERTHSANTA AVATAR GALA/tweet_3_img_1.jpg",
+        "PERTHSANTA AVATAR GALA/tweet_3_img_2.jpg"
       ]
     }
   ]

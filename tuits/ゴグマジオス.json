@@ -1,17 +1,17 @@
 {
   "trend": "ゴグマジオス",
-  "scraped_at": "2025-12-16T13:10:15.717671",
+  "scraped_at": "2025-12-16T15:35:57.436019",
   "tweet_count": 3,
   "total_replies": 20,
-  "image_count": 38,
+  "image_count": 24,
   "tweets": [
     {
       "author": "ワイト",
       "handle": "",
       "text": "▼Gogmazios Gimmick Guide\n\n◼︎Countermeasures\n・Water Bubble and Oil Mud Adaptation Lv.1\n・Earthquake Resistance Small Lv.2\n・Environmental Adaptation Lv.1\n・Fire Resistance 20 or higher\n・Fire attribute and Dragon attribute weapons\n\n◼︎First Area First Half\n・Damage from",
-      "replies": "1",
-      "retweets": "254",
-      "likes": "1.7K",
+      "replies": "3",
+      "retweets": "476",
+      "likes": "3.1K",
       "timestamp": "2025-12-16T09:17:55.000Z",
       "image_urls": [
         "https://pbs.twimg.com/media/G8R25c5bYAAMyTV?format=jpg&name=360x360",
@@ -26,7 +26,7 @@
           "text": "It's easy to understand! Thank you!\nWhen I'm in the middle of playing, I don't have time to check the explanation screen, right?",
           "replies": "",
           "retweets": "",
-          "likes": "3",
+          "likes": "4",
           "timestamp": "2025-12-16T10:31:10.000Z",
           "image_urls": [],
           "downloaded_images": []
@@ -36,37 +36,41 @@
           "handle": "",
           "text": "This event quest has insanely good efficiency for heavy armor spheres!!\nThe part where Lagia is weakened and then Reyus shows up is also \n\n#モンハンワイルズ #MHWilds",
           "replies": "",
-          "retweets": "109",
-          "likes": "744",
+          "retweets": "123",
+          "likes": "876",
           "timestamp": "2025-12-16T04:45:44.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8Q63fuaYAAwZT_?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8Q63fuaYAAwZT_?format=jpg&name=large"
           ],
           "downloaded_images": [
             "ゴグマジオス/tweet_1_reply_2_img_1.jpg"
           ]
         },
         {
-          "author": "皆で一緒にモンハンライフあっと",
-          "handle": "",
-          "text": "【拡散希望】\n\n②クエストを受けると強制オフラインになる\nですが、対策としてゲームのタイトル画面の\n「Options」＞「GAME SETTING」タブ内にある「クロスプレイの設定」の項目をOFFにしてください。\n\nこれはクエスト受注の画面ではない点に注意が必要です。",
-          "replies": "4",
-          "retweets": "359",
-          "likes": "689",
-          "timestamp": "2025-12-16T08:59:07.000Z",
-          "image_urls": [],
-          "downloaded_images": []
-        },
-        {
           "author": "ひなあられ【大剣大好き】",
           "handle": "",
           "text": "OMEGA RESONANCE IS HERE AAAAAAAAAAA!!!!!!!!\n\nThe collab skill can be triggered tooooooooo!!!",
-          "replies": "12",
-          "retweets": "571",
-          "likes": "3K",
+          "replies": "13",
+          "retweets": "599",
+          "likes": "3.2K",
           "timestamp": "2025-12-16T05:13:09.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8RBlU6awAAeJqc?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "ゴグマジオス/tweet_1_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "【公式】モンスターハンターワイルズ",
+          "handle": "",
+          "text": "【Recovery Report】\nThere was an issue where communication errors \"R359F-0-0\" and \"R319F-0-0\" might occur when joining multiplayer sessions on all platforms.\n※It has now been resolved.\n\nWe apologize for any inconvenience this may have caused to our customers.\n#モンハンワイルズ",
+          "replies": "77",
+          "retweets": "688",
+          "likes": "1.5K",
+          "timestamp": "2025-12-16T10:55:12.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SP78FbwAAj5p8?format=jpg&name=360x360"
           ],
           "downloaded_images": [
             "ゴグマジオス/tweet_1_reply_4_img_1.jpg"
@@ -76,9 +80,9 @@
           "author": "ワイト",
           "handle": "",
           "text": "▼Gogmazios Gimmick Guide\n\n◼︎Countermeasures\n・Water Bubble and Oil Mud Adaptation Lv.1\n・Earthquake Resistance Small Lv.2\n・Environmental Adaptation Lv.1\n・Fire Resistance 20 or higher\n・Fire attribute and Dragon attribute weapons\n\n◼︎First Area First Half\n・Damage from",
-          "replies": "1",
-          "retweets": "254",
-          "likes": "1.7K",
+          "replies": "3",
+          "retweets": "476",
+          "likes": "3.1K",
           "timestamp": "2025-12-16T09:17:55.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8R25c5bYAAMyTV?format=jpg&name=360x360",
@@ -97,62 +101,52 @@
           "author": "ふぁんた",
           "handle": "",
           "text": "If you time the Dual Blades' Weakness Exploit with the moment Gogmazios takes flight...\n\nYou can surprisingly fly in the sky together!!\n#モンハンワイルズ \n#ゴグマジオス",
-          "replies": "",
-          "retweets": "39",
-          "likes": "131",
+          "replies": "8",
+          "retweets": "1K",
+          "likes": "3.3K",
           "timestamp": "2025-12-16T08:18:42.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "Emptiness Sire  DEMO OUT",
+          "author": "UFC",
           "handle": "",
-          "text": "What would a mystery feel like in a world ruled by turns?",
-          "replies": "2",
-          "retweets": "",
-          "likes": "1",
+          "text": "A new way to watch UFC",
+          "replies": "",
+          "retweets": "78",
+          "likes": "1.6K",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "ARS㉙ハヴァーツ",
+          "author": "ヌツキ",
           "handle": "",
-          "text": "Gogmazios Personal Stability Gunlance\nI've gotten quite a bit more stable with farming now\n#MonsterHunterWilds \n#MonsterHunter",
+          "text": "Gogmagogos",
           "replies": "1",
-          "retweets": "1",
-          "likes": "49",
-          "timestamp": "2025-12-16T06:41:57.000Z",
+          "retweets": "186",
+          "likes": "1.4K",
+          "timestamp": "2025-12-16T10:27:51.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8RV97pbIAAxTd0?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8RV97saMAAY49Y?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8RV97ma4AQNBxH?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8SJqfoa4AICuHs?format=jpg&name=large"
           ],
           "downloaded_images": [
-            "ゴグマジオス/tweet_1_reply_8_img_1.jpg",
-            "ゴグマジオス/tweet_1_reply_8_img_2.jpg",
-            "ゴグマジオス/tweet_1_reply_8_img_3.jpg"
+            "ゴグマジオス/tweet_1_reply_8_img_1.jpg"
           ]
         },
         {
-          "author": "Harukyst.gm",
+          "author": "せっかさん ･`ω･) @ランサー",
           "handle": "",
-          "text": "Recommended One-Handed Sword Equipment for Gogmazios Countermeasures \n(English follows Japanese)\n\n Easy to assemble with Production Talisman!\n Fire Resistance 20 without skills or meals\n Can distribute buffs with Wide-Range!\n\nStart using this build first and then adjust",
-          "replies": "2",
-          "retweets": "5",
-          "likes": "90",
-          "timestamp": "2025-12-16T09:09:36.000Z",
+          "text": "Monster Hunter, you've finally become Gundam, huh?   \nThey say that if you draw your sword with this appearance, it's like a hunting horn, everyone   \n\nIt's super cool though (*´▽`)  \nI've been trying out layered armor nonstop and haven't gotten to Gogmazios yet lol",
+          "replies": "",
+          "retweets": "2",
+          "likes": "40",
+          "timestamp": "2025-12-16T10:43:48.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8R24S4WkAE9yyO?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R25A4W8AUiYVL?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R26FiWcAIS2_m?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R26yHXQAEjbHI?format=jpg&name=360x360"
+            "https://pbs.twimg.com/media/G8SNUzuasAA3pFA?format=jpg&name=large"
           ],
           "downloaded_images": [
-            "ゴグマジオス/tweet_1_reply_9_img_1.jpg",
-            "ゴグマジオス/tweet_1_reply_9_img_2.jpg",
-            "ゴグマジオス/tweet_1_reply_9_img_3.jpg",
-            "ゴグマジオス/tweet_1_reply_9_img_4.jpg"
+            "ゴグマジオス/tweet_1_reply_9_img_1.jpg"
           ]
         }
       ],
@@ -168,9 +162,9 @@
       "author": "ふぁんた",
       "handle": "",
       "text": "If you time the Dual Blades' Weakness Exploit with the moment Gogmazios takes flight...\n\nYou can surprisingly fly in the sky together!!\n#モンハンワイルズ \n#ゴグマジオス",
-      "replies": "",
-      "retweets": "39",
-      "likes": "131",
+      "replies": "8",
+      "retweets": "1K",
+      "likes": "3.3K",
       "timestamp": "2025-12-16T08:18:42.000Z",
       "image_urls": [],
       "thread_replies": [
@@ -178,76 +172,66 @@
           "author": "ふぁんた",
           "handle": "",
           "text": "If you time the Dual Blades' Weakness Exploit with the moment Gogmazios takes flight...\n\nYou can surprisingly fly in the sky together!!\n#モンハンワイルズ \n#ゴグマジオス",
-          "replies": "",
-          "retweets": "39",
-          "likes": "131",
+          "replies": "8",
+          "retweets": "1K",
+          "likes": "3.3K",
           "timestamp": "2025-12-16T08:18:42.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "Emptiness Sire  DEMO OUT",
+          "author": "UFC",
           "handle": "",
-          "text": "What would a mystery feel like in a world ruled by turns?",
-          "replies": "2",
-          "retweets": "",
-          "likes": "1",
+          "text": "A new way to watch UFC",
+          "replies": "",
+          "retweets": "78",
+          "likes": "1.6K",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
+          "author": "ヌツキ",
+          "handle": "",
+          "text": "Gogmagogos",
+          "replies": "1",
+          "retweets": "186",
+          "likes": "1.4K",
+          "timestamp": "2025-12-16T10:27:51.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SJqfoa4AICuHs?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "ゴグマジオス/tweet_2_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "せっかさん ･`ω･) @ランサー",
+          "handle": "",
+          "text": "Monster Hunter, you've finally become Gundam, huh?   \nThey say that if you draw your sword with this appearance, it's like a hunting horn, everyone   \n\nIt's super cool though (*´▽`)  \nI've been trying out layered armor nonstop and haven't gotten to Gogmazios yet lol",
+          "replies": "",
+          "retweets": "2",
+          "likes": "40",
+          "timestamp": "2025-12-16T10:43:48.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SNUzuasAA3pFA?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "ゴグマジオス/tweet_2_reply_4_img_1.jpg"
+          ]
+        },
+        {
           "author": "ARS㉙ハヴァーツ",
           "handle": "",
           "text": "Gogmazios Personal Stability Gunlance\nI've gotten quite a bit more stable with farming now\n#MonsterHunterWilds \n#MonsterHunter",
-          "replies": "1",
-          "retweets": "1",
-          "likes": "49",
+          "replies": "2",
+          "retweets": "4",
+          "likes": "69",
           "timestamp": "2025-12-16T06:41:57.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8RV97pbIAAxTd0?format=jpg&name=large",
             "https://pbs.twimg.com/media/G8RV97saMAAY49Y?format=jpg&name=360x360",
             "https://pbs.twimg.com/media/G8RV97ma4AQNBxH?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "ゴグマジオス/tweet_2_reply_3_img_1.jpg",
-            "ゴグマジオス/tweet_2_reply_3_img_2.jpg",
-            "ゴグマジオス/tweet_2_reply_3_img_3.jpg"
-          ]
-        },
-        {
-          "author": "Harukyst.gm",
-          "handle": "",
-          "text": "Recommended One-Handed Sword Equipment for Gogmazios Countermeasures \n(English follows Japanese)\n\n Easy to assemble with Production Talisman!\n Fire Resistance 20 without skills or meals\n Can distribute buffs with Wide-Range!\n\nStart using this build first and then adjust",
-          "replies": "2",
-          "retweets": "5",
-          "likes": "90",
-          "timestamp": "2025-12-16T09:09:36.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8R24S4WkAE9yyO?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R25A4W8AUiYVL?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R26FiWcAIS2_m?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R26yHXQAEjbHI?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "ゴグマジオス/tweet_2_reply_4_img_1.jpg",
-            "ゴグマジオス/tweet_2_reply_4_img_2.jpg",
-            "ゴグマジオス/tweet_2_reply_4_img_3.jpg",
-            "ゴグマジオス/tweet_2_reply_4_img_4.jpg"
-          ]
-        },
-        {
-          "author": "JeyO/じぇいおー",
-          "handle": "",
-          "text": "This is the Gogmazios counter equipment.\nI was able to defeat it with this build!\nIt seems more stable to stack fire resistance, environmental adaptation, and for guard weapons, enhanced guard performance.\n\n#MHWilds \n#モンハンワイルズ",
-          "replies": "",
-          "retweets": "9",
-          "likes": "131",
-          "timestamp": "2025-12-16T06:01:30.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8RMglnaIAAgbA6?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8RMkBwbIAACaSz?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8RMlcza4AEEJV9?format=jpg&name=360x360"
           ],
           "downloaded_images": [
             "ゴグマジオス/tweet_2_reply_5_img_1.jpg",
@@ -260,12 +244,12 @@
       "downloaded_images": []
     },
     {
-      "author": "Emptiness Sire  DEMO OUT",
+      "author": "UFC",
       "handle": "",
-      "text": "What would a mystery feel like in a world ruled by turns?",
-      "replies": "2",
-      "retweets": "",
-      "likes": "1",
+      "text": "A new way to watch UFC",
+      "replies": "",
+      "retweets": "78",
+      "likes": "1.6K",
       "timestamp": "",
       "image_urls": [],
       "thread_replies": [
@@ -273,76 +257,66 @@
           "author": "ふぁんた",
           "handle": "",
           "text": "If you time the Dual Blades' Weakness Exploit with the moment Gogmazios takes flight...\n\nYou can surprisingly fly in the sky together!!\n#モンハンワイルズ \n#ゴグマジオス",
-          "replies": "",
-          "retweets": "39",
-          "likes": "131",
+          "replies": "8",
+          "retweets": "1K",
+          "likes": "3.3K",
           "timestamp": "2025-12-16T08:18:42.000Z",
           "image_urls": [],
           "downloaded_images": []
         },
         {
-          "author": "Emptiness Sire  DEMO OUT",
+          "author": "UFC",
           "handle": "",
-          "text": "What would a mystery feel like in a world ruled by turns?",
-          "replies": "2",
-          "retweets": "",
-          "likes": "1",
+          "text": "A new way to watch UFC",
+          "replies": "",
+          "retweets": "78",
+          "likes": "1.6K",
           "timestamp": "",
           "image_urls": [],
           "downloaded_images": []
         },
         {
+          "author": "ヌツキ",
+          "handle": "",
+          "text": "Gogmagogos",
+          "replies": "1",
+          "retweets": "186",
+          "likes": "1.4K",
+          "timestamp": "2025-12-16T10:27:51.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SJqfoa4AICuHs?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "ゴグマジオス/tweet_3_reply_3_img_1.jpg"
+          ]
+        },
+        {
+          "author": "せっかさん ･`ω･) @ランサー",
+          "handle": "",
+          "text": "Monster Hunter, you've finally become Gundam, huh?   \nThey say that if you draw your sword with this appearance, it's like a hunting horn, everyone   \n\nIt's super cool though (*´▽`)  \nI've been trying out layered armor nonstop and haven't gotten to Gogmazios yet lol",
+          "replies": "",
+          "retweets": "2",
+          "likes": "40",
+          "timestamp": "2025-12-16T10:43:48.000Z",
+          "image_urls": [
+            "https://pbs.twimg.com/media/G8SNUzuasAA3pFA?format=jpg&name=large"
+          ],
+          "downloaded_images": [
+            "ゴグマジオス/tweet_3_reply_4_img_1.jpg"
+          ]
+        },
+        {
           "author": "ARS㉙ハヴァーツ",
           "handle": "",
           "text": "Gogmazios Personal Stability Gunlance\nI've gotten quite a bit more stable with farming now\n#MonsterHunterWilds \n#MonsterHunter",
-          "replies": "1",
-          "retweets": "1",
-          "likes": "49",
+          "replies": "2",
+          "retweets": "4",
+          "likes": "69",
           "timestamp": "2025-12-16T06:41:57.000Z",
           "image_urls": [
             "https://pbs.twimg.com/media/G8RV97pbIAAxTd0?format=jpg&name=large",
             "https://pbs.twimg.com/media/G8RV97saMAAY49Y?format=jpg&name=360x360",
             "https://pbs.twimg.com/media/G8RV97ma4AQNBxH?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "ゴグマジオス/tweet_3_reply_3_img_1.jpg",
-            "ゴグマジオス/tweet_3_reply_3_img_2.jpg",
-            "ゴグマジオス/tweet_3_reply_3_img_3.jpg"
-          ]
-        },
-        {
-          "author": "Harukyst.gm",
-          "handle": "",
-          "text": "Recommended One-Handed Sword Equipment for Gogmazios Countermeasures \n(English follows Japanese)\n\n Easy to assemble with Production Talisman!\n Fire Resistance 20 without skills or meals\n Can distribute buffs with Wide-Range!\n\nStart using this build first and then adjust",
-          "replies": "2",
-          "retweets": "5",
-          "likes": "90",
-          "timestamp": "2025-12-16T09:09:36.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8R24S4WkAE9yyO?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R25A4W8AUiYVL?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R26FiWcAIS2_m?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8R26yHXQAEjbHI?format=jpg&name=360x360"
-          ],
-          "downloaded_images": [
-            "ゴグマジオス/tweet_3_reply_4_img_1.jpg",
-            "ゴグマジオス/tweet_3_reply_4_img_2.jpg",
-            "ゴグマジオス/tweet_3_reply_4_img_3.jpg",
-            "ゴグマジオス/tweet_3_reply_4_img_4.jpg"
-          ]
-        },
-        {
-          "author": "JeyO/じぇいおー",
-          "handle": "",
-          "text": "This is the Gogmazios counter equipment.\nI was able to defeat it with this build!\nIt seems more stable to stack fire resistance, environmental adaptation, and for guard weapons, enhanced guard performance.\n\n#MHWilds \n#モンハンワイルズ",
-          "replies": "",
-          "retweets": "9",
-          "likes": "131",
-          "timestamp": "2025-12-16T06:01:30.000Z",
-          "image_urls": [
-            "https://pbs.twimg.com/media/G8RMglnaIAAgbA6?format=jpg&name=large",
-            "https://pbs.twimg.com/media/G8RMkBwbIAACaSz?format=jpg&name=360x360",
-            "https://pbs.twimg.com/media/G8RMlcza4AEEJV9?format=jpg&name=360x360"
           ],
           "downloaded_images": [
             "ゴグマジオス/tweet_3_reply_5_img_1.jpg",
@@ -351,15 +325,15 @@
           ]
         },
         {
-          "author": "モンハンワイルズ攻略@ゲームウィズ",
+          "author": "ˋ°✧* ｡greatwhite｡*✧°ˊ",
           "handle": "",
-          "text": "／Weakness Quick Reference Chart Update 4th Editionver／\n\nAdded Gogmazios!\nBe careful because dragon attribute is essential for countermeasures against big moves!\n\n▼Monster List\nhttps://gamewith.jp/mhwilds/452222\n#モンハンワイルズ #MHWs #MHWilds",
-          "replies": "",
-          "retweets": "281",
-          "likes": "1.2K",
-          "timestamp": "2025-12-16T07:36:22.000Z",
+          "text": "Gogmazios-san's anthropomorphism is complete! A full-body sleepyhead dragon spear ancient dragon big sister who's all moist and luscious!!♡(˃͈ ˂͈ ) Super waiting for the Wilds update!!!٩(ˊᗜˋ*)و ♡ Please make it into a plush toy product!! I beg you!! #モンハン",
+          "replies": "14",
+          "retweets": "800",
+          "likes": "6.9K",
+          "timestamp": "2025-11-25T22:22:41.000Z",
           "image_urls": [
-            "https://pbs.twimg.com/media/G8RiXR6a4AAgL-y?format=jpg&name=large"
+            "https://pbs.twimg.com/media/G6ojcFLbkAAyO-L?format=jpg&name=large"
           ],
           "downloaded_images": [
             "ゴグマジオス/tweet_3_reply_6_img_1.jpg"
